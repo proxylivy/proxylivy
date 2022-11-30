@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @DeathGabox
-- 👀 I’m interested in learn 
-- 🌱 I’m currently learning Markdown
-- 💞️ I’m looking to collaborate on *nothing Special*
-- 📫 How to reach me [Instagram](https://www.instagram.com/deathgabox/)
+- 👋 Hola, Soy @DeathGabox en la mayoria de las redes sociales
+- 👀 Estoy interesado en aprender Markdown, Python y Github 
+- 🌱 Estoy Aprendiendo sobre Markdown y Linux :D
+- 💞️ Estoy viendo como colaborar sobre *Dotfiles*
+- 📫 Como Contactarme: [Instagram](https://www.instagram.com/deathgabox/)
+- :penguin: Aprendiendo Linux (I Use Arch BTW)
 
 <!---
 DeathGabox/DeathGabox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
