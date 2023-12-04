@@ -61,29 +61,35 @@
 ![Hack The Box Badge](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=000&style=for-the-badge)
 ![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=fff&style=for-the-badge)
 ![Tor Browser Badge](https://img.shields.io/badge/Tor%20Browser-7D4698?logo=torbrowser&logoColor=fff&style=for-the-badge)
+![Gentoo Badge](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=fff&style=for-the-badge)
 
 ## Hardware
 
 ### Laptop
 
-- [![Acer Aspire E5-575G](https://img.shields.io/badge/Acer-Aspire_E5_575G-83B81A?logo=acer&logoColor=fff&style=for-the-badge)](https://global-download.acer.com/GDFiles/Document/User%20Manual%20W10/User%20Manual%20W10_Acer_1.0_A_A.pdf?acerid=636349268251913884&Step1=&Step2=&Step3=ASPIRE%20E5-576&OS=ALL&LC=en&BC=ACER&SC=PA_6)
-- [![Intel i5-6200U](https://img.shields.io/badge/Intel-Core_i5_6200U-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://ark.intel.com/content/www/us/en/ark/products/88193/intel-core-i5-6200u-processor-3m-cache-up-to-2-80-ghz.html)
-- [![Intel HD Graphics 520](https://img.shields.io/badge/Intel-HD_Graphics_520-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com/content/www/us/en/support/products/88355/graphics/processor-graphics/intel-hd-graphics-family/intel-hd-graphics-520.html)
-- [![Nvidia GeForce 940MX](https://img.shields.io/badge/NVIDIA-GeForce_940MX-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/geforce/gaming-laptops/geforce-940mx/)
-- [![Kingston Technology](https://img.shields.io/badge/Kingston%20Fury%20Renegade-1TB-000?logo=kingstontechnology&logoColor=fff&style=for-the-badge)](https://www.kingston.com/en/ssd/gaming/kingston-fury-renegade-nvme-m2-ssd/)
-- ![Wayland](https://img.shields.io/badge/Display-1366x768-FFBC00?logo=wayland&logoColor=000&style=for-the-badge)
+[![Acer Aspire E5-575G](https://img.shields.io/badge/Acer-Aspire_E5_575G-83B81A?logo=acer&logoColor=fff&style=for-the-badge)](https://global-download.acer.com/GDFiles/Document/User%20Manual%20W10/User%20Manual%20W10_Acer_1.0_A_A.pdf?acerid=636349268251913884&Step1=&Step2=&Step3=ASPIRE%20E5-576&OS=ALL&LC=en&BC=ACER&SC=PA_6)
 
+[![Intel i5-6200U](https://img.shields.io/badge/Intel-Core_i5_6200U-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://ark.intel.com/content/www/us/en/ark/products/88193/intel-core-i5-6200u-processor-3m-cache-up-to-2-80-ghz.html) [![Intel HD Graphics 520](https://img.shields.io/badge/Intel-HD_Graphics_520-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com/content/www/us/en/support/products/88355/graphics/processor-graphics/intel-hd-graphics-family/intel-hd-graphics-520.html)
+
+[![Nvidia GeForce 940MX](https://img.shields.io/badge/NVIDIA-GeForce_940MX-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/geforce/gaming-laptops/geforce-940mx/)
+
+[![Kingston Technology](https://img.shields.io/badge/Kingston%20Fury%20Renegade-1TB-000?logo=kingstontechnology&logoColor=fff&style=for-the-badge)](https://www.kingston.com/en/ssd/gaming/kingston-fury-renegade-nvme-m2-ssd/)
+
+![Wayland](https://img.shields.io/badge/Display-1366x768-FFBC00?logo=wayland&logoColor=000&style=for-the-badge)
 
 ---
 Credits
 
-- <sub> «See [Github Readme Typing repo](https://github.com/denvercoder1/readme-typing-svg)» </sub>
-- <sub> Badge getting from: https://shields.io/ with https://github.com/Envoy-VC/awesome-badges and https://badges.pages.dev  </sub>
+[![Github Repo Readme Typing](https://img.shields.io/badge/GitHub_Repo_Readme_Typing_-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/denvercoder1/readme-typing-svg) [![Github/Envoy-VC/Awesome_Badges](https://img.shields.io/badge/GitHub_Repo_Awesome_Badges-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/Envoy-VC/awesome-badges)
+
+[![Shields.io Badge](https://img.shields.io/badge/Shields.io-000?logo=shieldsdotio&logoColor=fff&style=for-the-badge)](https://shields.io/) [![Simple Icons Badge](https://img.shields.io/badge/Badges%20Pages-111?logo=simpleicons&logoColor=fff&style=for-the-badge)](https://badges.pages.dev)
 
 ---
-I love these repos:
-- 🥇 look at [awesome self-hosted git](https://github.com/awesome-selfhosted/awesome-selfhosted)
-- 🥈 or a list of [awesome awesomeness git](https://github.com/bayandin/awesome-awesomeness)
+<3
+[![Framework Badge](https://img.shields.io/badge/<3_Framework-000?logo=framework&logoColor=fff&style=for-the-badge)](https://frame.work/) [![Awesome Lists Badge](https://img.shields.io/badge/<3%20Awesome%20Lists-FC60A8?logo=awesomelists&logoColor=fff&style=for-the-badge)](https://github.com/sindresorhus/awesome)
+
+[![GitHub Repo 1](https://img.shields.io/badge/GitHub_Repo_Awesome_Self_Hosted-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/awesome-selfhosted/awesome-selfhosted) 
+[![Github Repo 2](https://img.shields.io/badge/GitHub_Repo_Awesome_Awesomeness-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/bayandin/awesome-awesomeness)
 
 <!---
 DeathGabox/DeathGabox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
