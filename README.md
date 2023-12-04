@@ -9,10 +9,11 @@
 
 ### I use:
 
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=fff)
 ![F-Droid](https://img.shields.io/badge/F%20Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
 ![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)
 ![Cloudfire](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
@@ -20,27 +21,42 @@
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Virtualbox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
+![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?logo=truenas&logoColor=fff&style=for-the-badge)
+![QEMU](https://img.shields.io/badge/QEMU-F60?logo=qemu&logoColor=fff&style=for-the-badge)
 
 ### Dockerize 🐳
 
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
-
+![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)
 
 ### Learning
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Haskell Badge](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=fff&style=for-the-badge)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
+
+## Hardware
+
+### Laptop
+
+- [![Acer Aspire E5-575G](https://img.shields.io/badge/Acer-Aspire_E5_575G-83B81A?logo=acer&logoColor=fff&style=for-the-badge)](https://global-download.acer.com/GDFiles/Document/User%20Manual%20W10/User%20Manual%20W10_Acer_1.0_A_A.pdf?acerid=636349268251913884&Step1=&Step2=&Step3=ASPIRE%20E5-576&OS=ALL&LC=en&BC=ACER&SC=PA_6)
+- [![Intel i5-6200U](https://img.shields.io/badge/Intel-Core_i5_6200U-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://ark.intel.com/content/www/us/en/ark/products/88193/intel-core-i5-6200u-processor-3m-cache-up-to-2-80-ghz.html)
+- [![Intel HD Graphics 520](https://img.shields.io/badge/Intel-HD_Graphics_520-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com/content/www/us/en/support/products/88355/graphics/processor-graphics/intel-hd-graphics-family/intel-hd-graphics-520.html)
+- [![Nvidia GeForce 940MX](https://img.shields.io/badge/NVIDIA-GeForce_940MX-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/geforce/gaming-laptops/geforce-940mx/)
+- [![Kingston Technology](https://img.shields.io/badge/Kingston%20Fury%20Renegade-1TB-000?logo=kingstontechnology&logoColor=fff&style=for-the-badge)](https://www.kingston.com/en/ssd/gaming/kingston-fury-renegade-nvme-m2-ssd/)
+- ![Wayland](https://img.shields.io/badge/Display-1366x768-FFBC00?logo=wayland&logoColor=000&style=for-the-badge)
 
 ---
 Credits
 
 - <sub> «See [Github Readme Typing repo](https://github.com/denvercoder1/readme-typing-svg)» </sub>
-- <sub> Badge getting from: https://shields.io/ with https://github.com/Envoy-VC/awesome-badges  </sub>
+- <sub> Badge getting from: https://shields.io/ with https://github.com/Envoy-VC/awesome-badges and https://badges.pages.dev  </sub>
 
 ---
 I love these repos:
