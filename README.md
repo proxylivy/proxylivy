@@ -22,7 +22,7 @@ You can reach me on
 
 ### Apps i use
 
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=fff)
+![Obsidian](https://img.shields.io/badge/Obsidian-252525?style=for-the-badge&logo=obsidian&logoColor=6830D9)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![F-Droid](https://img.shields.io/badge/F%20Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
 ![RetroArch Badge](https://img.shields.io/badge/RetroArch-000?logo=retroarch&logoColor=fff&style=for-the-badge)
