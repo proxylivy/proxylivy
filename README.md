@@ -6,17 +6,15 @@
 
 You can reach me on
 
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="gabriel-zuñiga-montecinos-299539252" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cl.linkedin.com/in/gabriel-zu%C3%B1iga-montecinos-299539252?trk=profile-badge">Gabriel Zuñiga Montecinos</a></div>
-
-[![LinkedIn Badge](https://img.shields.io/badge/🔗_Linked[In]-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/gabriel-zu%C3%B1iga-montecinos-299539252/)
-[![Gmail Badge](https://img.shields.io/badge/🔗_mailto:zunigagabriel3[at]gmail[dot]com-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:zunigagabriel3@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/🔗_Linked[In]-e6e6e6?logo=linkedin&logoColor=0575B0&style=for-the-badge)](https://www.linkedin.com/in/gabriel-zu%C3%B1iga-montecinos-299539252/)
+[![Gmail Badge](https://img.shields.io/badge/🔗_mailto:zunigagabriel3[at]gmail[dot]com-B51D39?logo=gmail&logoColor=FABE0F&labelColor=38A454&style=for-the-badge)](mailto:zunigagabriel3@gmail.com)
 [![Github](https://img.shields.io/badge/🔗My_GitHub_Profile-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/DeathGabox)
 
 ## Stuff
 
 ### Tech i try to know:
 
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
+![Linux Badge](https://img.shields.io/badge/Linux-F5BB16?logo=linux&logoColor=000&style=for-the-badge)
 [![Fish Shell](https://img.shields.io/badge/🔗_Fish_Shell-52AC4C?logo=zsh&logoColor=fff&style=for-the-badge)](https://fishshell.com/)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)
