@@ -32,7 +32,7 @@ You can reach me on
 ![uBlock Origin Badge](https://img.shields.io/badge/uBlock%20Origin-800000?logo=ublockorigin&logoColor=fff&style=for-the-badge)
 
 ### Virtualization / OS
-![QEMU](https://img.shields.io/badge/QEMU-F60?logo=qemu&logoColor=fff&style=for-the-badge) ![Virtualbox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
+![QEMU](https://img.shields.io/badge/QEMU-F36201?logo=qemu&logoColor=010101&style=for-the-badge) ![Virtualbox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
 
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?logo=truenas&logoColor=fff&style=for-the-badge)
 ![pfSense Badge](https://img.shields.io/badge/pfSense-212121?logo=pfsense&logoColor=fff&style=for-the-badge)
