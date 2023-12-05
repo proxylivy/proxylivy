@@ -6,9 +6,11 @@
 
 You can reach me on
 
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="gabriel-zuñiga-montecinos-299539252" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cl.linkedin.com/in/gabriel-zu%C3%B1iga-montecinos-299539252?trk=profile-badge">Gabriel Zuñiga Montecinos</a></div>
+
 [![LinkedIn Badge](https://img.shields.io/badge/🔗_Linked[In]-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/gabriel-zu%C3%B1iga-montecinos-299539252/)
 [![Gmail Badge](https://img.shields.io/badge/🔗_mailto:zunigagabriel3[at]gmail[dot]com-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:zunigagabriel3@gmail.com)
-[![Github](https://img.shields.io/badge/🔗_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/DeathGabox)
+[![Github](https://img.shields.io/badge/🔗My_GitHub_Profile-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/DeathGabox)
 
 ## Stuff
 
@@ -162,3 +164,5 @@ DeathGabox/DeathGabox is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 Hi <3
 --->
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
