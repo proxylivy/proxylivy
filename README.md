@@ -1,9 +1,11 @@
+⭐ Remember star repos you like 💌
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=16&duration=4600&pause=1200&color=15C9F7C8&vCenter=true&width=460&height=35&lines=Hi+There+%F0%9F%91%8B%2C+I+am+Deathgabox+%5E%5E;2+Years+with+Arch%F0%9F%90%A7+as+Daily+Driver;%F0%9F%8C%B1+Trying+to+switch+Systemd+to+S6;Feel+free+to+look+around)](https://git.io/typing-svg)
 
-- 📫 Send me a mail: zunigagabriel3 [at] gmail [dot] com
-- ⭐ Remember star repos you like ♥️
+You can reach me on
 
-![Build With Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/gabriel-zu%C3%B1iga-montecinos-299539252/)
+[![Gmail Badge](https://img.shields.io/badge/mailto:-zunigagabriel3[at]gmail[dot]com-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:zunigagabriel3@gmail.com)
 
 ## Stuff
 
@@ -20,6 +22,7 @@
 ![F-Droid](https://img.shields.io/badge/F%20Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
 ![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)
 ![Cloudfire](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![htop Badge](https://img.shields.io/badge/htop-009020?logo=htop&logoColor=fff&style=for-the-badge)
 ![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![Virtualbox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
@@ -62,6 +65,8 @@
 ![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=fff&style=for-the-badge)
 ![Tor Browser Badge](https://img.shields.io/badge/Tor%20Browser-7D4698?logo=torbrowser&logoColor=fff&style=for-the-badge)
 ![Gentoo Badge](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=fff&style=for-the-badge)
+![Cisco Badge](https://img.shields.io/badge/Cisco_Network-1BA0D7?logo=cisco&logoColor=fff&style=for-the-badge)
+![Huawei Badge](https://img.shields.io/badge/Huawei_Network-F00?logo=huawei&logoColor=fff&style=for-the-badge)
 
 ## Hardware
 
@@ -77,6 +82,17 @@
 
 ![Wayland](https://img.shields.io/badge/Display-1366x768-FFBC00?logo=wayland&logoColor=000&style=for-the-badge)
 
+### NAS Server
+
+[![Fandom](https://img.shields.io/badge/Fandom_Wiki-HP_MicroServer_N40L-FA005A?logo=fandom&logoColor=fff&style=for-the-badge)](https://n40l.fandom.com/wiki/HP_MicroServer_N40L_Wiki)
+
+[![AMD Badge](https://img.shields.io/badge/AMD-Turion_II_Neo_N40L_K625-ED1C24?logo=amd&logoColor=fff&style=for-the-badge)](https://en.wikipedia.org/wiki/Template:AMD_Turion_II_Neo_(Geneva,_dual-core))
+
+[![Nvidia GeForce GT 1030](https://img.shields.io/badge/NVIDIA-GeForce_GT_1030-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.techpowerup.com/gpu-specs/geforce-gt-1030.c2954)
+
+[![Western Digital](https://img.shields.io/badge/Western%20Digital-2x1TB-000?logo=westerndigital&logoColor=fff&style=for-the-badge)](https://www.westerndigital.com/en-us/products/internal-drives/wd-blue-desktop-sata-hdd?sku=WD10EZEX)
+
+
 ---
 Credits
 
@@ -86,10 +102,13 @@ Credits
 
 ---
 <3
+
 [![Framework Badge](https://img.shields.io/badge/<3_Framework-000?logo=framework&logoColor=fff&style=for-the-badge)](https://frame.work/) [![Awesome Lists Badge](https://img.shields.io/badge/<3%20Awesome%20Lists-FC60A8?logo=awesomelists&logoColor=fff&style=for-the-badge)](https://github.com/sindresorhus/awesome)
 
 [![GitHub Repo 1](https://img.shields.io/badge/GitHub_Repo_Awesome_Self_Hosted-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/awesome-selfhosted/awesome-selfhosted) 
 [![Github Repo 2](https://img.shields.io/badge/GitHub_Repo_Awesome_Awesomeness-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/bayandin/awesome-awesomeness)
+
+![Build With Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
 <!---
 DeathGabox/DeathGabox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
