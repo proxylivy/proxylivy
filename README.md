@@ -7,7 +7,7 @@
 You can reach me on
 
 [![LinkedIn Badge](https://img.shields.io/badge/🔗_Linked[In]-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/gabriel-zu%C3%B1iga-montecinos-299539252/)
-[![Gmail Badge](https://img.shields.io/badge/🔗_mailto:-zunigagabriel3[at]gmail[dot]com-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:zunigagabriel3@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/🔗_mailto:zunigagabriel3[at]gmail[dot]com-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:zunigagabriel3@gmail.com)
 [![Github](https://img.shields.io/badge/🔗_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/DeathGabox)
 
 ## Stuff
