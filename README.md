@@ -6,30 +6,32 @@
 
 You can reach me on
 
-[![LinkedIn Badge](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/gabriel-zu%C3%B1iga-montecinos-299539252/)
+[![LinkedIn Badge](https://img.shields.io/badge/🔗_Linked[In]-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/gabriel-zu%C3%B1iga-montecinos-299539252/)
 [![Gmail Badge](https://img.shields.io/badge/🔗_mailto:-zunigagabriel3[at]gmail[dot]com-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:zunigagabriel3@gmail.com)
 
 ## Stuff
 
-### I use:
+### Tech i try to Know:
 
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 [![Github](https://img.shields.io/badge/🔗_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=fff)
-![F-Droid](https://img.shields.io/badge/F%20Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
 ![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)
 ![Cloudfire](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![htop Badge](https://img.shields.io/badge/htop-009020?logo=htop&logoColor=fff&style=for-the-badge)
-![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
+
+### Apps i use
+
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=fff)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+![F-Droid](https://img.shields.io/badge/F%20Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
 ![RetroArch Badge](https://img.shields.io/badge/RetroArch-000?logo=retroarch&logoColor=fff&style=for-the-badge)
 
 ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![DuckDuckGo Badge](https://img.shields.io/badge/DuckDuckGo-DE5833?logo=duckduckgo&logoColor=fff&style=for-the-badge)
 ![uBlock Origin Badge](https://img.shields.io/badge/uBlock%20Origin-800000?logo=ublockorigin&logoColor=fff&style=for-the-badge)
 
-### Virtualization
+### Virtualization / OS
 ![QEMU](https://img.shields.io/badge/QEMU-F60?logo=qemu&logoColor=fff&style=for-the-badge) ![Virtualbox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
 
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?logo=truenas&logoColor=fff&style=for-the-badge)
@@ -40,15 +42,16 @@ You can reach me on
 ![Rocky Linux Badge](https://img.shields.io/badge/Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff&style=for-the-badge)
 ![Windows XP Badge](https://img.shields.io/badge/Windows%20XP-039?logo=windowsxp&logoColor=fff&style=for-the-badge)
 
-
-
-### Dockerize 🐳
+### Docker Deploy 🐳
 
 ![Firefly III Badge](https://img.shields.io/badge/Firefly%20III-CD5029?logo=fireflyiii&logoColor=fff&style=for-the-badge)
+![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)
+
+### Docker Waitlist Deploy (WIP) 🐳
+
 ![Uptime Kuma Badge](https://img.shields.io/badge/Uptime%20Kuma-5CDD8B?logo=uptimekuma&logoColor=000&style=for-the-badge)
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
 ![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=for-the-badge)
 ![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)
@@ -67,8 +70,8 @@ You can reach me on
 
 ### Learning
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Haskell Badge](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=fff&style=for-the-badge)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
@@ -82,6 +85,7 @@ You can reach me on
 ![Cisco Badge](https://img.shields.io/badge/Cisco_Network-1BA0D7?logo=cisco&logoColor=fff&style=for-the-badge)
 ![Huawei Badge](https://img.shields.io/badge/Huawei_Network-F00?logo=huawei&logoColor=fff&style=for-the-badge)
 ![LaTeX Badge](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=for-the-badge)
+![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
 ## Hardware
 
