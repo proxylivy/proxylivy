@@ -163,4 +163,3 @@ You can click the Preview link to take a look at your changes.
 Hi <3
 --->
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
