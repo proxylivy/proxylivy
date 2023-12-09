@@ -14,15 +14,14 @@ You can reach me on
 
 ### Tech i try to know:
 
-![Linux Badge](https://img.shields.io/badge/Linux-F5BB16?logo=linux&logoColor=000&style=for-the-badge)
+[![Linux Badge](https://img.shields.io/badge/Linux-F5BB16?logo=linux&logoColor=000&style=for-the-badge)](https://www.kernel.org/)
 [![Fish Shell](https://img.shields.io/badge/🔗_Fish_Shell-52AC4C?logo=zsh&logoColor=fff&style=for-the-badge)](https://fishshell.com/)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)
-![Cloudfire](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![htop Badge](https://img.shields.io/badge/htop-009020?logo=htop&logoColor=fff&style=for-the-badge)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org)
+[![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://www.rssboard.org/rss-specification)
+[![Cloudflare Tunnel](https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/products/tunnel/)
 
 ### Virtualization / OS
-![QEMU](https://img.shields.io/badge/QEMU-F36201?logo=qemu&logoColor=010101&style=for-the-badge) ![Virtualbox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
+[![QEMU](https://img.shields.io/badge/QEMU-F36201?logo=qemu&logoColor=010101&style=for-the-badge) ![Virtualbox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)](https://www.qemu.org/)
 
 ![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge)
 ![Alpine Linux Badge](https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff&style=for-the-badge)
@@ -139,6 +138,8 @@ You can reach me on
 - Apps
 
 ![tmux Badge](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff&style=for-the-badge) ![htop Badge](https://img.shields.io/badge/htop-009020?logo=htop&logoColor=fff&style=for-the-badge)
+![htop Badge](https://img.shields.io/badge/htop-009020?logo=htop&logoColor=fff&style=for-the-badge)
+
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-252525?style=for-the-badge&logo=obsidian&logoColor=6830D9)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
