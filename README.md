@@ -61,40 +61,42 @@ You can reach me on
 
 - Programming Languague
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Haskell Badge](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=fff&style=for-the-badge)
-![LaTeX Badge](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=for-the-badge)
-![PowerShell Badge](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=for-the-badge)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+[![C](https://img.shields.io/badge/🔗_C_Standard-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/www/standards)
+[![Rust](https://img.shields.io/badge/🔗_Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Haskell Badge](https://img.shields.io/badge/🔗_Haskell-5D4F85?logo=haskell&logoColor=fff&style=for-the-badge)](https://www.haskell.org/)
+[![LaTeX Badge](https://img.shields.io/badge/🔗_LaTeX-008080?logo=latex&logoColor=fff&style=for-the-badge)](www.latex-project.org)
+[![PowerShell Badge](https://img.shields.io/badge/🔗_PowerShell-5391FE?logo=powershell&logoColor=fff&style=for-the-badge)](https://github.com/PowerShell/PowerShell)
+[![Python Badge](https://img.shields.io/badge/🔗_Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
 
 - Apps
 
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white) ![Org Badge](https://img.shields.io/badge/Org-7A9?logo=org&logoColor=fff&style=for-the-badge)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Wireshark Badge](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=fff&style=for-the-badge)
-![Tor Browser Badge](https://img.shields.io/badge/Tor%20Browser-7D4698?logo=torbrowser&logoColor=fff&style=for-the-badge)
-![Magisk Badge](https://img.shields.io/badge/Magisk-00AF9C?logo=magisk&logoColor=fff&style=for-the-badge)
-![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=for-the-badge)
+[![Vim](https://img.shields.io/badge/🔗_VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
+[![Emacs](https://img.shields.io/badge/🔗_Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)](https://www.gnu.org/software/emacs/) [![Org Badge](https://img.shields.io/badge/🔗_Org-7A9?logo=org&logoColor=fff&style=for-the-badge)](https://orgmode.org/)
+[![Ansible](https://img.shields.io/badge/🔗_Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![Wireshark Badge](https://img.shields.io/badge/🔗_Wireshark-1679A7?logo=wireshark&logoColor=fff&style=for-the-badge)](https://www.wireshark.org/)
+[![Tor Browser Badge](https://img.shields.io/badge/🔗_Tor%20Browser-7D4698?logo=torbrowser&logoColor=fff&style=for-the-badge)](https://www.torproject.org/)
+[![Magisk Badge](https://img.shields.io/badge/🔗_Magisk-00AF9C?logo=magisk&logoColor=fff&style=for-the-badge)](https://github.com/topjohnwu/Magisk)
+[![MariaDB Badge](https://img.shields.io/badge/🔗_MariaDB-003545?logo=mariadb&logoColor=fff&style=for-the-badge)](https://mariadb.org/)
 
 - OS/Network
 
-![Proxmox Badge](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=fff&style=for-the-badge)
-![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)
-![Gentoo Badge](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=fff&style=for-the-badge)
-![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
-![K3s Badge](https://img.shields.io/badge/K3s-FFC61C?logo=k3s&logoColor=000&style=for-the-badge)
-![Cisco Badge](https://img.shields.io/badge/Cisco_Network-1BA0D7?logo=cisco&logoColor=fff&style=for-the-badge)
-![Huawei Badge](https://img.shields.io/badge/Huawei_Network-F00?logo=huawei&logoColor=fff&style=for-the-badge)
-![Ubiquiti Badge](https://img.shields.io/badge/Ubiquiti-0559C9?logo=ubiquiti&logoColor=fff&style=for-the-badge)
-![NixOS Badge](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff&style=for-the-badge)
-![OpenWrt Badge](https://img.shields.io/badge/OpenWrt-00B5E2?logo=openwrt&logoColor=fff&style=for-the-badge)
-![pfSense Badge](https://img.shields.io/badge/pfSense-212121?logo=pfsense&logoColor=fff&style=for-the-badge)
-![OPNSense Badge](https://img.shields.io/badge/OPNSense-D94F00?logo=opnsense&logoColor=fff&style=for-the-badge)
-![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?logo=truenas&logoColor=fff&style=for-the-badge)
-![Tails Badge](https://img.shields.io/badge/Tails-56347C?logo=tails&logoColor=fff&style=for-the-badge)
-![Vagrant Badge](https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=fff&style=for-the-badge)
+[![Proxmox Badge](https://img.shields.io/badge/🔗_Proxmox-E57000?logo=proxmox&logoColor=fff&style=for-the-badge)](https://www.proxmox.com/en/)
+[![Microsoft Azure Badge](https://img.shields.io/badge/🔗_Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)](https://azure.microsoft.com/en-us)
+[![Vagrant Badge](https://img.shields.io/badge/🔗_Vagrant-1868F2?logo=vagrant&logoColor=fff&style=for-the-badge)](https://www.vagrantup.com/)
+[![Kubernetes Badge](https://img.shields.io/badge/🔗_K8s-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)](https://kubernetes.io/) [![K3s Badge](https://img.shields.io/badge/🔗_K3s-FFC61C?logo=k3s&logoColor=000&style=for-the-badge)](https://k3s.io/)
+
+[![OpenWrt Badge](https://img.shields.io/badge/🔗_OpenWrt-00B5E2?logo=openwrt&logoColor=fff&style=for-the-badge)](https://openwrt.org/)
+[![pfSense Badge](https://img.shields.io/badge/🔗_pfSense-212121?logo=pfsense&logoColor=fff&style=for-the-badge)](https://www.pfsense.org)
+[![OPNSense Badge](https://img.shields.io/badge/🔗_OPNSense-D94F00?logo=opnsense&logoColor=fff&style=for-the-badge)](https://opnsense.org/)
+[![TrueNAS](https://img.shields.io/badge/🔗_TrueNAS-0095D5?logo=truenas&logoColor=fff&style=for-the-badge)](https://www.truenas.com/)
+[![Tails Badge](https://img.shields.io/badge/🔗_Tails-56347C?logo=tails&logoColor=fff&style=for-the-badge)](https://tails.net/)
+[![Gentoo Badge](https://img.shields.io/badge/🔗_Gentoo-54487A?logo=gentoo&logoColor=fff&style=for-the-badge)](https://www.gentoo.org/)
+[![NixOS Badge](https://img.shields.io/badge/🔗_NixOS-5277C3?logo=nixos&logoColor=fff&style=for-the-badge)](https://nixos.org/)
+
+[![Cisco Badge](https://img.shields.io/badge/🔗_Cisco_Network-1BA0D7?logo=cisco&logoColor=fff&style=for-the-badge)](https://www.cisco.com/)
+[![Huawei Badge](https://img.shields.io/badge/🔗_Huawei_Network-F00?logo=huawei&logoColor=fff&style=for-the-badge)](https://e.huawei.com/en/)
+[![Ubiquiti Badge](https://img.shields.io/badge/🔗_Ubiquiti_Network-0559C9?logo=ubiquiti&logoColor=fff&style=for-the-badge)](https://www.ui.com/introduction)
+
 
 ## Hardware
 
