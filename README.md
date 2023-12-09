@@ -14,19 +14,19 @@ You can reach me on
 
 ### Tech i try to know:
 
-[![Linux Badge](https://img.shields.io/badge/Linux-F5BB16?logo=linux&logoColor=000&style=for-the-badge)](https://www.kernel.org/)
+[![Linux Badge](https://img.shields.io/badge/🔗_Linux-F5BB16?logo=linux&logoColor=000&style=for-the-badge)](https://www.kernel.org/)
 [![Fish Shell](https://img.shields.io/badge/🔗_Fish_Shell-52AC4C?logo=zsh&logoColor=fff&style=for-the-badge)](https://fishshell.com/)
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org)
-[![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://www.rssboard.org/rss-specification)
-[![Cloudflare Tunnel](https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/products/tunnel/)
+[![Markdown](https://img.shields.io/badge/🔗_Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org)
+[![RSS](https://img.shields.io/badge/🔗_RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://www.rssboard.org/rss-specification)
+[![Cloudflare Tunnel](https://img.shields.io/badge/🔗_Cloudflare_Tunnel-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/products/tunnel/)
 
 ### Virtualization / OS
-[![QEMU](https://img.shields.io/badge/QEMU-F36201?logo=qemu&logoColor=010101&style=for-the-badge)](https://www.qemu.org/) [![Virtualbox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)](https://www.virtualbox.org/)
+[![QEMU](https://img.shields.io/badge/🔗_QEMU-F36201?logo=qemu&logoColor=010101&style=for-the-badge)](https://www.qemu.org/) [![Virtualbox](https://img.shields.io/badge/🔗_VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)](https://www.virtualbox.org/)
 
-[![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
-[![Alpine Linux Badge](https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff&style=for-the-badge)](https://www.alpinelinux.org/)
-[![Kali Linux Badge](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge)](https://www.kali.org/)
-[![Rocky Linux Badge](https://img.shields.io/badge/Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff&style=for-the-badge)](https://rockylinux.org/)
+[![Arch Linux Badge](https://img.shields.io/badge/🔗_Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
+[![Alpine Linux Badge](https://img.shields.io/badge/🔗_Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff&style=for-the-badge)](https://www.alpinelinux.org/)
+[![Kali Linux Badge](https://img.shields.io/badge/🔗_Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge)](https://www.kali.org/)
+[![Rocky Linux Badge](https://img.shields.io/badge/🔗_Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff&style=for-the-badge)](https://rockylinux.org/)
 
 ### Docker Deploy 🐳
 
