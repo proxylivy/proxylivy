@@ -21,13 +21,12 @@ You can reach me on
 [![Cloudflare Tunnel](https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/products/tunnel/)
 
 ### Virtualization / OS
-[![QEMU](https://img.shields.io/badge/QEMU-F36201?logo=qemu&logoColor=010101&style=for-the-badge) ![Virtualbox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)](https://www.qemu.org/)
+[![QEMU](https://img.shields.io/badge/QEMU-F36201?logo=qemu&logoColor=010101&style=for-the-badge)](https://www.qemu.org/) [![Virtualbox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)](https://www.virtualbox.org/)
 
-![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge)
-![Alpine Linux Badge](https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff&style=for-the-badge)
-![Kali Linux Badge](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge)
-![Rocky Linux Badge](https://img.shields.io/badge/Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff&style=for-the-badge)
-![Windows XP Badge](https://img.shields.io/badge/Windows%20XP-039?logo=windowsxp&logoColor=fff&style=for-the-badge)
+[![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
+[![Alpine Linux Badge](https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff&style=for-the-badge)](https://www.alpinelinux.org/)
+[![Kali Linux Badge](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge)](https://www.kali.org/)
+[![Rocky Linux Badge](https://img.shields.io/badge/Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff&style=for-the-badge)](https://rockylinux.org/)
 
 ### Docker Deploy 🐳
 
@@ -103,7 +102,7 @@ You can reach me on
 
 [![Acer Aspire E5-575G](https://img.shields.io/badge/Acer-Aspire_E5_575G-83B81A?logo=acer&logoColor=fff&style=for-the-badge)](https://global-download.acer.com/GDFiles/Document/User%20Manual%20W10/User%20Manual%20W10_Acer_1.0_A_A.pdf?acerid=636349268251913884&Step1=&Step2=&Step3=ASPIRE%20E5-576&OS=ALL&LC=en&BC=ACER&SC=PA_6)
 
-[![Intel i5-6200U](https://img.shields.io/badge/🔗_Intel-Core_i5_6200U-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://ark.intel.com/content/www/us/en/ark/products/88193/intel-core-i5-6200u-processor-3m-cache-up-to-2-80-ghz.html) [![Intel HD Graphics 520](https://img.shields.io/badge/Intel-HD_Graphics_520-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com/content/www/us/en/support/products/88355/graphics/processor-graphics/intel-hd-graphics-family/intel-hd-graphics-520.html)
+[![Intel i5-6200U](https://img.shields.io/badge/🔗_Intel-Core_i5_6200U-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://ark.intel.com/content/www/us/en/ark/products/88193/intel-core-i5-6200u-processor-3m-cache-up-to-2-80-ghz.html) [![Intel HD Graphics 520](https://img.shields.io/badge/🔗_Intel-HD_Graphics_520-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com/content/www/us/en/support/products/88355/graphics/processor-graphics/intel-hd-graphics-family/intel-hd-graphics-520.html)
 
 [![Nvidia GeForce 940MX](https://img.shields.io/badge/🔗_NVIDIA-GeForce_940MX-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/geforce/gaming-laptops/geforce-940mx/)
 
@@ -132,35 +131,35 @@ You can reach me on
 
 - Webpages
 
-[![Awesome Lists Badge](https://img.shields.io/badge/🔗_Awesome%20Lists-FC60A8?logo=awesomelists&logoColor=fff&style=for-the-badge)](https://github.com/sindresorhus/awesome) ![MUBI Badge](https://img.shields.io/badge/MUBI-000?logo=mubi&logoColor=fff&style=for-the-badge) ![MusicBrainz Badge](https://img.shields.io/badge/MusicBrainz-BA478F?logo=musicbrainz&logoColor=fff&style=for-the-badge) [![Shields.io Badge](https://img.shields.io/badge/🔗_Shields.io-000?logo=shieldsdotio&logoColor=fff&style=for-the-badge)](https://shields.io/) [![Simple Icons Badge](https://img.shields.io/badge/🔗_Badges%20Pages-111?logo=simpleicons&logoColor=fff&style=for-the-badge)](https://badges.pages.dev) ![Hack The Box Badge](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=000&style=for-the-badge) ![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=fff&style=for-the-badge) ![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) ![XDA Developers Badge](https://img.shields.io/badge/XDA%20Developers-EA7100?logo=xdadevelopers&logoColor=fff&style=for-the-badge)
+[![Awesome Lists Badge](https://img.shields.io/badge/🔗_Awesome%20Lists-FC60A8?logo=awesomelists&logoColor=fff&style=for-the-badge)](https://github.com/sindresorhus/awesome)   [![Shields.io Badge](https://img.shields.io/badge/🔗_Shields.io-000?logo=shieldsdotio&logoColor=fff&style=for-the-badge)](https://shields.io/) [![Simple Icons Badge](https://img.shields.io/badge/🔗_Badges%20Pages-111?logo=simpleicons&logoColor=fff&style=for-the-badge)](https://badges.pages.dev) [![Hack The Box Badge](https://img.shields.io/badge/🔗_Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=000&style=for-the-badge)](https://www.hackthebox.com/) [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=fff&style=for-the-badge)](https://tryhackme.com/) [![FreeCodeCamp](https://img.shields.io/badge/🔗_FreeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/) [![XDA Developers Badge](https://img.shields.io/badge/🔗_XDA%20Developers-EA7100?logo=xdadevelopers&logoColor=fff&style=for-the-badge)](https://www.xda-developers.com/)
 
+[![MUBI Badge](https://img.shields.io/badge/🔗_MUBI-000?logo=mubi&logoColor=fff&style=for-the-badge)](https://mubi.com)
 
 - Apps
 
-![tmux Badge](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff&style=for-the-badge) ![htop Badge](https://img.shields.io/badge/htop-009020?logo=htop&logoColor=fff&style=for-the-badge)
-![htop Badge](https://img.shields.io/badge/htop-009020?logo=htop&logoColor=fff&style=for-the-badge)
+[![tmux Badge](https://img.shields.io/badge/🔗_tmux-1BB91F?logo=tmux&logoColor=fff&style=for-the-badge)](https://github.com/tmux/tmux/wiki) [![htop Badge](https://img.shields.io/badge/🔗_htop-009020?logo=htop&logoColor=fff&style=for-the-badge)](https://htop.dev/)
 
+[![Obsidian](https://img.shields.io/badge/🔗_Obsidian-252525?style=for-the-badge&logo=obsidian&logoColor=6830D9)](https://obsidian.md/)
+[![LibreOffice](https://img.shields.io/badge/🔗_LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://www.libreoffice.org/)
+[![F-Droid](https://img.shields.io/badge/🔗_F%20Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)](https://f-droid.org/)
+[![RetroArch Badge](https://img.shields.io/badge/🔗_RetroArch-000?logo=retroarch&logoColor=fff&style=for-the-badge)](https://www.retroarch.com/)
+[![MusicBrainz Picard](https://img.shields.io/badge/🔗_MusicBrainz_Picard-BA478F?logo=musicbrainz&logoColor=fff&style=for-the-badge)](https://picard.musicbrainz.org/)
 
-![Obsidian](https://img.shields.io/badge/Obsidian-252525?style=for-the-badge&logo=obsidian&logoColor=6830D9)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-![F-Droid](https://img.shields.io/badge/F%20Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
-![RetroArch Badge](https://img.shields.io/badge/RetroArch-000?logo=retroarch&logoColor=fff&style=for-the-badge)
+[![Firefox](https://img.shields.io/badge/🔗_Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
+[![DuckDuckGo Badge](https://img.shields.io/badge/🔗_DuckDuckGo-DE5833?logo=duckduckgo&logoColor=fff&style=for-the-badge)](https://duckduckgo.com/)
+[![uBlock Origin Badge](https://img.shields.io/badge/🔗_uBlock%20Origin-800000?logo=ublockorigin&logoColor=fff&style=for-the-badge)](https://ublockorigin.com/)
+[![Pocket Badge](https://img.shields.io/badge/🔗_Pocket-EF3F56?logo=pocket&logoColor=fff&style=for-the-badge)](https://getpocket.com/en)
+[![Thunderbird Badge](https://img.shields.io/badge/🔗_Thunderbird-0A84FF?logo=thunderbird&logoColor=fff&style=for-the-badge)](https://www.thunderbird.net/en-US/)
 
-![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![DuckDuckGo Badge](https://img.shields.io/badge/DuckDuckGo-DE5833?logo=duckduckgo&logoColor=fff&style=for-the-badge)
-![uBlock Origin Badge](https://img.shields.io/badge/uBlock%20Origin-800000?logo=ublockorigin&logoColor=fff&style=for-the-badge)
-![Pocket Badge](https://img.shields.io/badge/Pocket-EF3F56?logo=pocket&logoColor=fff&style=for-the-badge)
-![Thunderbird Badge](https://img.shields.io/badge/Thunderbird-0A84FF?logo=thunderbird&logoColor=fff&style=for-the-badge)
+- Brands
 
-- Marcas
-
-![PlayStation 2](https://img.shields.io/badge/PlayStation%202-003791?logo=playstation2&logoColor=fff&style=for-the-badge) ![ThinkPad Badge](https://img.shields.io/badge/ThinkPad-EE2624?logo=thinkpad&logoColor=fff&style=for-the-badge) [![Framework Badge](https://img.shields.io/badge/🔗_Framework-000?logo=framework&logoColor=fff&style=for-the-badge)](https://frame.work/)
-
-![Build With Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
+![ThinkPad Badge](https://img.shields.io/badge/ThinkPad-EE2624?logo=thinkpad&logoColor=fff&style=for-the-badge) [![PlayStation 2](https://img.shields.io/badge/🔗_PlayStation%202-003791?logo=playstation2&logoColor=fff&style=for-the-badge)](https://playstation.fandom.com/wiki/PlayStation_2) [![Framework Badge](https://img.shields.io/badge/🔗_Framework-000?logo=framework&logoColor=fff&style=for-the-badge)](https://frame.work/)
 
 <!---
 DeathGabox/DeathGabox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 Hi <3
+
+![Build With Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 --->
 
