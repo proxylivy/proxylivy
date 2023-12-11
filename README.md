@@ -37,6 +37,8 @@ You can reach me on
 
 ### Docker Waitlist Deploy (WIP) 🐳
 
+![Nginx Proxy Manager Badge](https://img.shields.io/badge/Nginx%20Proxy%20Manager-F15833?logo=nginxproxymanager&logoColor=fff&style=for-the-badge)
+![Let's Encrypt Badge](https://img.shields.io/badge/Let's%20Encrypt-003A70?logo=letsencrypt&logoColor=fff&style=for-the-badge)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
@@ -55,7 +57,6 @@ You can reach me on
 ![TiddlyWiki Badge](https://img.shields.io/badge/TiddlyWiki-111?logo=tiddlywiki&logoColor=fff&style=for-the-badge)
 ![Immich Badge](https://img.shields.io/badge/Immich-4250AF?logo=immich&logoColor=fff&style=for-the-badge)
 ![ngrok Badge](https://img.shields.io/badge/ngrok-1F1E37?logo=ngrok&logoColor=fff&style=for-the-badge)
-![Let's Encrypt Badge](https://img.shields.io/badge/Let's%20Encrypt-003A70?logo=letsencrypt&logoColor=fff&style=for-the-badge)
 ![Zigbee Badge](https://img.shields.io/badge/Zigbee-EB0443?logo=zigbee&logoColor=fff&style=for-the-badge)
 
 ### Learning
