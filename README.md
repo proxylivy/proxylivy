@@ -31,14 +31,13 @@ You can reach me on
 
 ### Docker Deploy 🐳
 
-![Firefly III Badge](https://img.shields.io/badge/Firefly%20III-CD5029?logo=fireflyiii&logoColor=fff&style=for-the-badge)
+[![Let's Encrypt Badge](https://img.shields.io/badge/Let's%20Encrypt-003A70?logo=letsencrypt&logoColor=fff&style=for-the-badge)](https://letsencrypt.org/)
+[![Firefly III Badge](https://img.shields.io/badge/Firefly%20III-CD5029?logo=fireflyiii&logoColor=fff&style=for-the-badge)](https://demo.firefly-iii.org/login)
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 [![Uptime Kuma Badge](https://img.shields.io/badge/🔗_Uptime%20Kuma-5CDD8B?logo=uptimekuma&logoColor=000&style=for-the-badge)](https://kuma.deathgabox.work/status/kuma)
 
 ### Docker Waitlist Deploy (WIP) 🐳
 
-![Nginx Proxy Manager Badge](https://img.shields.io/badge/Nginx%20Proxy%20Manager-F15833?logo=nginxproxymanager&logoColor=fff&style=for-the-badge)
-![Let's Encrypt Badge](https://img.shields.io/badge/Let's%20Encrypt-003A70?logo=letsencrypt&logoColor=fff&style=for-the-badge)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
