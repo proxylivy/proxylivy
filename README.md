@@ -1,31 +1,31 @@
-⭐ Remember star repos you like 💌
-
 [![Github](https://img.shields.io/badge/👓_README_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white)](README.md?plain=1)
 
-🔗 -> External Link 
+⭐ Remember star repos you like 💌
+
+🔗 -> External Link
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=16&duration=4600&pause=1200&color=15C9F7C8&vCenter=true&width=460&height=35&lines=Hi+There+%F0%9F%91%8B%2C+I+am+Deathgabox+%5E%5E;2+Years+with+Arch%F0%9F%90%A7+as+Daily+Driver;%F0%9F%8C%B1+Trying+to+switch+Systemd+to+S6;Feel+free+to+look+around)](https://git.io/typing-svg)
 
 You can reach me on
 
-[![LinkedIn Badge](https://img.shields.io/badge/🔗_Linked[In]-e6e6e6?logo=linkedin&logoColor=0575B0&style=for-the-badge)](https://www.linkedin.com/in/gabriel-zu%C3%B1iga-montecinos-299539252/)
+[![LinkedIn Badge](https://img.shields.io/badge/🔗_Linked[In]-e6e6e6?logo=linkedin&logoColor=0575B0&style=for-the-badge)](https://www.linkedin.com/in/gabo-z-montecinos)
 [![Gmail Badge](https://img.shields.io/badge/🔗_mailto:zunigagabriel3[at]gmail[dot]com-B51D39?logo=gmail&logoColor=FABE0F&labelColor=38A454&style=for-the-badge)](mailto:zunigagabriel3@gmail.com)
 
 ## Stuff
 
-### Tech i try to know:
+### Tech i usually use:
+
+
 
 [![Linux Badge](https://img.shields.io/badge/🔗_Linux-F5BB16?logo=linux&logoColor=000&style=for-the-badge)](https://www.kernel.org/)
-[![Fish Shell](https://img.shields.io/badge/🔗_Fish_Shell-52AC4C?logo=zsh&logoColor=fff&style=for-the-badge)](https://fishshell.com/)
 [![Markdown](https://img.shields.io/badge/🔗_Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org)
-[![RSS](https://img.shields.io/badge/🔗_RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://www.rssboard.org/rss-specification)
-[![Cloudflare Tunnel](https://img.shields.io/badge/🔗_Cloudflare_Tunnel-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/products/tunnel/)
+[![RSS](https://img.shields.io/badge/🔗_RSS-E4761C?style=for-the-badge&logo=rss&logoColor=white)](https://www.rssboard.org/rss-specification)
+[![Cloudflare Services](https://img.shields.io/badge/🔗_Cloudflare_Services-F4801F?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/products/tunnel/)
 
 ### Virtualization / OS
 [![QEMU](https://img.shields.io/badge/🔗_QEMU-F36201?logo=qemu&logoColor=010101&style=for-the-badge)](https://www.qemu.org/) [![Virtualbox](https://img.shields.io/badge/🔗_VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)](https://www.virtualbox.org/)
 
 [![Arch Linux Badge](https://img.shields.io/badge/🔗_Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
-[![Alpine Linux Badge](https://img.shields.io/badge/🔗_Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff&style=for-the-badge)](https://www.alpinelinux.org/)
 [![Kali Linux Badge](https://img.shields.io/badge/🔗_Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge)](https://www.kali.org/)
 [![Rocky Linux Badge](https://img.shields.io/badge/🔗_Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff&style=for-the-badge)](https://rockylinux.org/)
 
@@ -33,8 +33,11 @@ You can reach me on
 
 [![Let's Encrypt Badge](https://img.shields.io/badge/Let's%20Encrypt-003A70?logo=letsencrypt&logoColor=fff&style=for-the-badge)](https://letsencrypt.org/)
 [![Firefly III Badge](https://img.shields.io/badge/Firefly%20III-CD5029?logo=fireflyiii&logoColor=fff&style=for-the-badge)](https://demo.firefly-iii.org/login)
-![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 [![Uptime Kuma Badge](https://img.shields.io/badge/🔗_Uptime%20Kuma-5CDD8B?logo=uptimekuma&logoColor=000&style=for-the-badge)](https://kuma.deathgabox.work/status/kuma)
+![Jellyfin Badge](https://img.shields.io/badge/Jellyfin-00A4DC?logo=jellyfin&logoColor=fff&style=for-the-badge)
+![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
+[![Syncthing](https://img.shields.io/badge/Syncthing-1EA6D3.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE4LjEuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxMTcuMyAxMTcuMyIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTE3LjMgMTE3LjMiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8Zz4KCTxsaW5lYXJHcmFkaWVudCBpZD0iU1ZHSURfMV8iIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iNTguNjY2IiB5MT0iMTE3LjMzMiIgeDI9IjU4LjY2NiIgeTI9IjAiPgoJCTxzdG9wICBvZmZzZXQ9IjAiIHN0eWxlPSJzdG9wLWNvbG9yOiMwODgyQzgiLz4KCQk8c3RvcCAgb2Zmc2V0PSIxIiBzdHlsZT0ic3RvcC1jb2xvcjojMjZCNkRCIi8+Cgk8L2xpbmVhckdyYWRpZW50PgoJPGNpcmNsZSBmaWxsPSJ1cmwoI1NWR0lEXzFfKSIgY3g9IjU4LjciIGN5PSI1OC43IiByPSI1OC43Ii8+Cgk8Zz4KCQk8Y2lyY2xlIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLXdpZHRoPSI2IiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIGN4PSI1OC43IiBjeT0iNTguNSIgcj0iNDMuNyIvPgoJCTxnPgoJCQk8cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNOTQuNyw0Ny44YzQuNywxLjYsOS44LTAuOSwxMS40LTUuNmMxLjYtNC43LTAuOS05LjgtNS42LTExLjRjLTQuNy0xLjYtOS44LDAuOS0xMS40LDUuNgoJCQkJQzg3LjUsNDEuMSw5MCw0Ni4yLDk0LjcsNDcuOHoiLz4KCQkJPGxpbmUgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjYiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgeDE9Ijk3LjYiIHkxPSIzOS40IiB4Mj0iNjcuNSIgeTI9IjY0LjQiLz4KCQk8L2c+CgkJPGc+CgkJCTxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik03Ny42LDkxYy0wLjQsNC45LDMuMiw5LjMsOC4yLDkuOGM1LDAuNCw5LjMtMy4yLDkuOC04LjJjMC40LTQuOS0zLjItOS4zLTguMi05LjgKCQkJCUM4Mi40LDgyLjQsNzgsODYsNzcuNiw5MXoiLz4KCQkJPGxpbmUgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjYiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgeDE9Ijg2LjUiIHkxPSI5MS44IiB4Mj0iNjcuNSIgeTI9IjY0LjQiLz4KCQk8L2c+CgkJPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTYwLDY5LjNjMi43LDQuMiw4LjMsNS40LDEyLjQsMi43YzQuMi0yLjcsNS40LTguMywyLjctMTIuNGMtMi43LTQuMi04LjMtNS40LTEyLjQtMi43CgkJCUM1OC41LDU5LjUsNTcuMyw2NS4xLDYwLDY5LjN6Ii8+CgkJPGc+CgkJCTxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0yMS4yLDYxLjRjLTQuMy0yLjUtOS44LTEuMS0xMi4zLDMuMWMtMi41LDQuMy0xLjEsOS44LDMuMSwxMi4zYzQuMywyLjUsOS44LDEuMSwxMi4zLTMuMQoJCQkJQzI2LjgsNjkuNSwyNS40LDY0LDIxLjIsNjEuNHoiLz4KCQkJPGxpbmUgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjYiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgeDE9IjE2LjYiIHkxPSI2OS4xIiB4Mj0iNjcuNSIgeTI9IjY0LjQiLz4KCQk8L2c+Cgk8L2c+CjwvZz4KPC9zdmc+Cg==&style=for-the-badge)](https://github.com/syncthing/syncthing)
+[![Dozzle](https://img.shields.io/badge/Dozzle-292828.svg?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDEyOCAxMjgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiByeD0iNiIgZmlsbD0iIzIyMjIyMiIvPgo8cGF0aCBkPSJNODIuMzI0OCA5NC4zODYzSDEyM1YxMDQuMDkzSDY3LjgwMjVWOTUuMzUwNkwxMDYuMTY0IDQ0LjM3MzZINjguMzgwOFYzNC41MzgySDEyMS4wNzJWNDIuOTU5NEw4Mi4zMjQ4IDk0LjM4NjNaIiBmaWxsPSIjRkZERDU3Ii8+CjxwYXRoIGQ9Ik04IDEwNy4xMDdMMTcuNTY1NiAxNEw0My44MzcyIDE2LjcwMTNDNTEuOTMzOSAxNy41MzM4IDU4LjkwOTEgMjAuMDYwNCA2NC43NjI5IDI0LjI4MTJDNzAuNjE2NiAyOC41MDE5IDc0Ljg4NzMgMzQuMDg5MyA3Ny41NzQ5IDQxLjA0MzJDODAuMzA1MiA0OC4wMDE2IDgxLjI1MTQgNTUuNzY3NCA4MC40MTM3IDY0LjM0MDdMNzkuODAyNyA3MC4yODc3Qzc4LjkwMDUgNzkuMDY5OCA3Ni40MDUzIDg2LjU4OTQgNzIuMzE3MyA5Mi44NDY4QzY4LjI3MTkgOTkuMTA4NCA2Mi45MTQgMTAzLjY4NCA1Ni4yNDM2IDEwNi41NzRDNDkuNjE1OCAxMDkuNDY4IDQyLjEyMTMgMTEwLjUyOSAzMy43NjAyIDEwOS43NTVMOCAxMDcuMTA3Wk0yOC44MDA1IDI1LjM2NTVMMjEuMzA0MyA5OC4zMjg4TDM0LjIxNjQgOTkuNjU2NUM0My42NzY3IDEwMC42MjkgNTEuMzI5OSA5OC40NDM1IDU3LjE3NTggOTMuMDk5M0M2My4wNjQ0IDg3Ljc1OTUgNjYuNTY3MSA3OS42NTQyIDY3LjY4NCA2OC43ODMyTDY4LjI0MjQgNjMuMzQ3N0M2OS4zMjg2IDUyLjc3NTIgNjcuNjc4OCA0NC4zMTIzIDYzLjI5MyAzNy45NTkyQzU4Ljk1NDIgMzEuNTY3OCA1Mi4yMjk1IDI3Ljg2MDcgNDMuMTE4OCAyNi44Mzc3TDI4LjgwMDUgMjUuMzY1NVoiIGZpbGw9IiNGRkRENTciLz4KPC9zdmc+Cg==&style=for-the-badge)](https://dozzle.dev/)
 
 ### Docker Waitlist Deploy (WIP) 🐳
 
@@ -50,7 +53,6 @@ You can reach me on
 ![ESPHome Badge](https://img.shields.io/badge/ESPHome-000?logo=esphome&logoColor=fff&style=for-the-badge)
 ![Mumble Badge](https://img.shields.io/badge/Mumble-000?logo=mumble&logoColor=fff&style=for-the-badge)
 ![Authelia Badge](https://img.shields.io/badge/Authelia-113155?logo=authelia&logoColor=fff&style=for-the-badge)
-![Jellyfin Badge](https://img.shields.io/badge/Jellyfin-00A4DC?logo=jellyfin&logoColor=fff&style=for-the-badge)
 ![Prometheus Badge](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=for-the-badge)
 ![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=for-the-badge)
 ![TiddlyWiki Badge](https://img.shields.io/badge/TiddlyWiki-111?logo=tiddlywiki&logoColor=fff&style=for-the-badge)
@@ -58,7 +60,7 @@ You can reach me on
 ![ngrok Badge](https://img.shields.io/badge/ngrok-1F1E37?logo=ngrok&logoColor=fff&style=for-the-badge)
 ![Zigbee Badge](https://img.shields.io/badge/Zigbee-EB0443?logo=zigbee&logoColor=fff&style=for-the-badge)
 
-### Learning
+### Want to Learn
 
 - Programming Languague
 
@@ -79,7 +81,7 @@ You can reach me on
 [![Magisk Badge](https://img.shields.io/badge/🔗_Magisk-00AF9C?logo=magisk&logoColor=fff&style=for-the-badge)](https://github.com/topjohnwu/Magisk)
 [![MariaDB Badge](https://img.shields.io/badge/🔗_MariaDB-003545?logo=mariadb&logoColor=fff&style=for-the-badge)](https://mariadb.org/)
 
-- OS/Network
+- Tech/OS/Network
 
 [![Proxmox Badge](https://img.shields.io/badge/🔗_Proxmox-E57000?logo=proxmox&logoColor=fff&style=for-the-badge)](https://www.proxmox.com/en/)
 [![Microsoft Azure Badge](https://img.shields.io/badge/🔗_Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)](https://azure.microsoft.com/en-us)
@@ -93,6 +95,7 @@ You can reach me on
 [![Tails Badge](https://img.shields.io/badge/🔗_Tails-56347C?logo=tails&logoColor=fff&style=for-the-badge)](https://tails.net/)
 [![Gentoo Badge](https://img.shields.io/badge/🔗_Gentoo-54487A?logo=gentoo&logoColor=fff&style=for-the-badge)](https://www.gentoo.org/)
 [![NixOS Badge](https://img.shields.io/badge/🔗_NixOS-5277C3?logo=nixos&logoColor=fff&style=for-the-badge)](https://nixos.org/)
+[![Alpine Linux Badge](https://img.shields.io/badge/🔗_Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff&style=for-the-badge)](https://www.alpinelinux.org/)
 
 [![Cisco Badge](https://img.shields.io/badge/🔗_Cisco_Network-1BA0D7?logo=cisco&logoColor=fff&style=for-the-badge)](https://www.cisco.com/)
 [![Huawei Badge](https://img.shields.io/badge/🔗_Huawei_Network-F00?logo=huawei&logoColor=fff&style=for-the-badge)](https://e.huawei.com/en/)
