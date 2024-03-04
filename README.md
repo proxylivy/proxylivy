@@ -6,14 +6,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=16&duration=4600&pause=1200&color=15C9F7C8&vCenter=true&width=460&height=35&lines=Hi+There+%F0%9F%91%8B%2C+I+am+Deathgabox+%5E%5E;2+Years+with+Arch%F0%9F%90%A7+as+Daily+Driver;%F0%9F%8C%B1+Trying+to+switch+Systemd+to+S6;Feel+free+to+look+around)](https://git.io/typing-svg)
 
-You can reach me on
+## Reach me on
 
 [![LinkedIn Badge](https://img.shields.io/badge/🔗_Linked[In]-e6e6e6?logo=linkedin&logoColor=0575B0&style=for-the-badge)](https://www.linkedin.com/in/gabo-z-montecinos)
 [![Gmail Badge](https://img.shields.io/badge/🔗_mailto:zunigagabriel3[at]gmail[dot]com-B51D39?logo=gmail&logoColor=FABE0F&labelColor=38A454&style=for-the-badge)](mailto:zunigagabriel3@gmail.com)
 
-## Stuff
-
-### I love Use
+## I love
 
 [![Linux Badge](https://img.shields.io/badge/🔗_Linux-F5BB16?logo=linux&logoColor=000&style=for-the-badge)](https://www.kernel.org/)
 [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)](https://www.docker.com/)
@@ -32,7 +30,7 @@ You can reach me on
 
 </details>
 
-### Actual Docker Deploy 🐳
+## Docker Deploy 🐳
 
 [![Let's Encrypt Badge](https://img.shields.io/badge/Let's%20Encrypt-003A70?logo=letsencrypt&logoColor=fff&style=for-the-badge)](https://letsencrypt.org/)
 [![Firefly III Badge](https://img.shields.io/badge/Firefly%20III-CD5029?logo=fireflyiii&logoColor=fff&style=for-the-badge)](https://demo.firefly-iii.org/login)
@@ -140,12 +138,12 @@ You can reach me on
 </details>
 
 ---
-## <3
+## Software
 
 <details>
   <summary><b>Repos,Webpages,Apps and Brands</b></summary>
 
-- Repos
+- Helful Repos to build this page
 
 [![Github Repo Readme Typing](https://img.shields.io/badge/🔗_GitHub_Repo_Readme_Typing_-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/denvercoder1/readme-typing-svg) [![Github/Envoy-VC/Awesome_Badges](https://img.shields.io/badge/🔗_GitHub_Repo_Awesome_Badges-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/Envoy-VC/awesome-badges) [![GitHub Repo 1](https://img.shields.io/badge/🔗_GitHub_Repo_Awesome_Self_Hosted-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/awesome-selfhosted/awesome-selfhosted) 
 [![Github Repo 2](https://img.shields.io/badge/🔗_GitHub_Repo_Awesome_Awesomeness-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/bayandin/awesome-awesomeness)
