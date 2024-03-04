@@ -13,21 +13,26 @@ You can reach me on
 
 ## Stuff
 
-### Tech i usually use:
+### I love Use
 
 [![Linux Badge](https://img.shields.io/badge/🔗_Linux-F5BB16?logo=linux&logoColor=000&style=for-the-badge)](https://www.kernel.org/)
-[![Markdown](https://img.shields.io/badge/🔗_Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org)
+[![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)](https://www.docker.com/)
 [![RSS](https://img.shields.io/badge/🔗_RSS-E4761C?style=for-the-badge&logo=rss&logoColor=white)](https://www.rssboard.org/rss-specification)
 [![Cloudflare Services](https://img.shields.io/badge/🔗_Cloudflare_Services-F4801F?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/products/tunnel/)
+[![Markdown](https://img.shields.io/badge/🔗_Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org)
+[![QEMU](https://img.shields.io/badge/🔗_QEMU-F36201?logo=qemu&logoColor=010101&style=for-the-badge)](https://www.qemu.org/) 
+[![Virtualbox](https://img.shields.io/badge/🔗_VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)](https://www.virtualbox.org/)
 
-### Virtualization / OS
-[![QEMU](https://img.shields.io/badge/🔗_QEMU-F36201?logo=qemu&logoColor=010101&style=for-the-badge)](https://www.qemu.org/) [![Virtualbox](https://img.shields.io/badge/🔗_VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)](https://www.virtualbox.org/)
+<details>
+  <summary><b>OS keep in touch</b></summary>
 
 [![Arch Linux Badge](https://img.shields.io/badge/🔗_Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
 [![Kali Linux Badge](https://img.shields.io/badge/🔗_Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge)](https://www.kali.org/)
 [![Rocky Linux Badge](https://img.shields.io/badge/🔗_Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff&style=for-the-badge)](https://rockylinux.org/)
 
-### Docker Deploy 🐳
+</details>
+
+### Actual Docker Deploy 🐳
 
 [![Let's Encrypt Badge](https://img.shields.io/badge/Let's%20Encrypt-003A70?logo=letsencrypt&logoColor=fff&style=for-the-badge)](https://letsencrypt.org/)
 [![Firefly III Badge](https://img.shields.io/badge/Firefly%20III-CD5029?logo=fireflyiii&logoColor=fff&style=for-the-badge)](https://demo.firefly-iii.org/login)
@@ -37,8 +42,9 @@ You can reach me on
 [![Syncthing](https://img.shields.io/badge/Syncthing-1EA6D3.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE4LjEuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxMTcuMyAxMTcuMyIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTE3LjMgMTE3LjMiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8Zz4KCTxsaW5lYXJHcmFkaWVudCBpZD0iU1ZHSURfMV8iIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iNTguNjY2IiB5MT0iMTE3LjMzMiIgeDI9IjU4LjY2NiIgeTI9IjAiPgoJCTxzdG9wICBvZmZzZXQ9IjAiIHN0eWxlPSJzdG9wLWNvbG9yOiMwODgyQzgiLz4KCQk8c3RvcCAgb2Zmc2V0PSIxIiBzdHlsZT0ic3RvcC1jb2xvcjojMjZCNkRCIi8+Cgk8L2xpbmVhckdyYWRpZW50PgoJPGNpcmNsZSBmaWxsPSJ1cmwoI1NWR0lEXzFfKSIgY3g9IjU4LjciIGN5PSI1OC43IiByPSI1OC43Ii8+Cgk8Zz4KCQk8Y2lyY2xlIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLXdpZHRoPSI2IiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIGN4PSI1OC43IiBjeT0iNTguNSIgcj0iNDMuNyIvPgoJCTxnPgoJCQk8cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNOTQuNyw0Ny44YzQuNywxLjYsOS44LTAuOSwxMS40LTUuNmMxLjYtNC43LTAuOS05LjgtNS42LTExLjRjLTQuNy0xLjYtOS44LDAuOS0xMS40LDUuNgoJCQkJQzg3LjUsNDEuMSw5MCw0Ni4yLDk0LjcsNDcuOHoiLz4KCQkJPGxpbmUgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjYiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgeDE9Ijk3LjYiIHkxPSIzOS40IiB4Mj0iNjcuNSIgeTI9IjY0LjQiLz4KCQk8L2c+CgkJPGc+CgkJCTxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik03Ny42LDkxYy0wLjQsNC45LDMuMiw5LjMsOC4yLDkuOGM1LDAuNCw5LjMtMy4yLDkuOC04LjJjMC40LTQuOS0zLjItOS4zLTguMi05LjgKCQkJCUM4Mi40LDgyLjQsNzgsODYsNzcuNiw5MXoiLz4KCQkJPGxpbmUgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjYiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgeDE9Ijg2LjUiIHkxPSI5MS44IiB4Mj0iNjcuNSIgeTI9IjY0LjQiLz4KCQk8L2c+CgkJPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTYwLDY5LjNjMi43LDQuMiw4LjMsNS40LDEyLjQsMi43YzQuMi0yLjcsNS40LTguMywyLjctMTIuNGMtMi43LTQuMi04LjMtNS40LTEyLjQtMi43CgkJCUM1OC41LDU5LjUsNTcuMyw2NS4xLDYwLDY5LjN6Ii8+CgkJPGc+CgkJCTxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0yMS4yLDYxLjRjLTQuMy0yLjUtOS44LTEuMS0xMi4zLDMuMWMtMi41LDQuMy0xLjEsOS44LDMuMSwxMi4zYzQuMywyLjUsOS44LDEuMSwxMi4zLTMuMQoJCQkJQzI2LjgsNjkuNSwyNS40LDY0LDIxLjIsNjEuNHoiLz4KCQkJPGxpbmUgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjYiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgeDE9IjE2LjYiIHkxPSI2OS4xIiB4Mj0iNjcuNSIgeTI9IjY0LjQiLz4KCQk8L2c+Cgk8L2c+CjwvZz4KPC9zdmc+Cg==&style=for-the-badge)](https://github.com/syncthing/syncthing)
 [![Dozzle](https://img.shields.io/badge/Dozzle-292828.svg?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDEyOCAxMjgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiByeD0iNiIgZmlsbD0iIzIyMjIyMiIvPgo8cGF0aCBkPSJNODIuMzI0OCA5NC4zODYzSDEyM1YxMDQuMDkzSDY3LjgwMjVWOTUuMzUwNkwxMDYuMTY0IDQ0LjM3MzZINjguMzgwOFYzNC41MzgySDEyMS4wNzJWNDIuOTU5NEw4Mi4zMjQ4IDk0LjM4NjNaIiBmaWxsPSIjRkZERDU3Ii8+CjxwYXRoIGQ9Ik04IDEwNy4xMDdMMTcuNTY1NiAxNEw0My44MzcyIDE2LjcwMTNDNTEuOTMzOSAxNy41MzM4IDU4LjkwOTEgMjAuMDYwNCA2NC43NjI5IDI0LjI4MTJDNzAuNjE2NiAyOC41MDE5IDc0Ljg4NzMgMzQuMDg5MyA3Ny41NzQ5IDQxLjA0MzJDODAuMzA1MiA0OC4wMDE2IDgxLjI1MTQgNTUuNzY3NCA4MC40MTM3IDY0LjM0MDdMNzkuODAyNyA3MC4yODc3Qzc4LjkwMDUgNzkuMDY5OCA3Ni40MDUzIDg2LjU4OTQgNzIuMzE3MyA5Mi44NDY4QzY4LjI3MTkgOTkuMTA4NCA2Mi45MTQgMTAzLjY4NCA1Ni4yNDM2IDEwNi41NzRDNDkuNjE1OCAxMDkuNDY4IDQyLjEyMTMgMTEwLjUyOSAzMy43NjAyIDEwOS43NTVMOCAxMDcuMTA3Wk0yOC44MDA1IDI1LjM2NTVMMjEuMzA0MyA5OC4zMjg4TDM0LjIxNjQgOTkuNjU2NUM0My42NzY3IDEwMC42MjkgNTEuMzI5OSA5OC40NDM1IDU3LjE3NTggOTMuMDk5M0M2My4wNjQ0IDg3Ljc1OTUgNjYuNTY3MSA3OS42NTQyIDY3LjY4NCA2OC43ODMyTDY4LjI0MjQgNjMuMzQ3N0M2OS4zMjg2IDUyLjc3NTIgNjcuNjc4OCA0NC4zMTIzIDYzLjI5MyAzNy45NTkyQzU4Ljk1NDIgMzEuNTY3OCA1Mi4yMjk1IDI3Ljg2MDcgNDMuMTE4OCAyNi44Mzc3TDI4LjgwMDUgMjUuMzY1NVoiIGZpbGw9IiNGRkRENTciLz4KPC9zdmc+Cg==&style=for-the-badge)](https://dozzle.dev/)
 
-### Docker Waitlist Deploy (WIP) 🐳
-
+<details>
+  <summary><b>Docker Waitlist Deploy (WIP)</b></summary>
+  
 [![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)](https://www.nginx.com/)
 [![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)](https://nextcloud.com/)
 [![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)](https://pi-hole.net/)
@@ -57,7 +63,10 @@ You can reach me on
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=for-the-badge)](https://grafana.com/oss/)
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=for-the-badge)](https://prometheus.io/)
 
-### Want to Learn
+</details>
+
+<details>
+  <summary><b>Things i want to Learn</b></summary>
 
 - Programming Languague
 
@@ -98,10 +107,12 @@ You can reach me on
 [![Huawei Badge](https://img.shields.io/badge/🔗_Huawei_Network-F00?logo=huawei&logoColor=fff&style=for-the-badge)](https://e.huawei.com/en/)
 [![Ubiquiti Badge](https://img.shields.io/badge/🔗_Ubiquiti_Network-0559C9?logo=ubiquiti&logoColor=fff&style=for-the-badge)](https://www.ui.com/introduction)
 
+</details>
 
 ## Hardware
 
-### Laptop
+<details>
+  <summary><b>Laptop</b></summary>
 
 [![Acer Aspire E5-575G](https://img.shields.io/badge/Acer-Aspire_E5_575G-83B81A?logo=acer&logoColor=fff&style=for-the-badge)](https://global-download.acer.com/GDFiles/Document/User%20Manual%20W10/User%20Manual%20W10_Acer_1.0_A_A.pdf?acerid=636349268251913884&Step1=&Step2=&Step3=ASPIRE%20E5-576&OS=ALL&LC=en&BC=ACER&SC=PA_6)
 
@@ -113,7 +124,10 @@ You can reach me on
 
 ![Wayland](https://img.shields.io/badge/Display-1366x768-FFBC00?logo=wayland&logoColor=000&style=for-the-badge)
 
-### MicroServer
+</details>
+
+<details>
+  <summary><b>Microserver</b></summary>
 
 [![Fandom](https://img.shields.io/badge/🔗_Fandom_Wiki-HP_MicroServer_N40L-FA005A?logo=fandom&logoColor=fff&style=for-the-badge)](https://n40l.fandom.com/wiki/HP_MicroServer_N40L_Wiki)
 
@@ -123,9 +137,13 @@ You can reach me on
 
 [![Western Digital](https://img.shields.io/badge/🔗_Western%20Digital-2x1TB-000?logo=westerndigital&logoColor=fff&style=for-the-badge)](https://www.westerndigital.com/en-us/products/internal-drives/wd-blue-desktop-sata-hdd?sku=WD10EZEX)
 
+</details>
 
 ---
 ## <3
+
+<details>
+  <summary><b>Repos,Webpages,Apps and Brands</b></summary>
 
 - Repos
 
@@ -134,11 +152,12 @@ You can reach me on
 
 - Webpages
 
-[![Awesome Lists Badge](https://img.shields.io/badge/🔗_Awesome%20Lists-FC60A8?logo=awesomelists&logoColor=fff&style=for-the-badge)](https://github.com/sindresorhus/awesome)   [![Shields.io Badge](https://img.shields.io/badge/🔗_Shields.io-000?logo=shieldsdotio&logoColor=fff&style=for-the-badge)](https://shields.io/) [![Simple Icons Badge](https://img.shields.io/badge/🔗_Badges%20Pages-111?logo=simpleicons&logoColor=fff&style=for-the-badge)](https://badges.pages.dev) [![Hack The Box Badge](https://img.shields.io/badge/🔗_Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=000&style=for-the-badge)](https://www.hackthebox.com/) [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=fff&style=for-the-badge)](https://tryhackme.com/) [![FreeCodeCamp](https://img.shields.io/badge/🔗_FreeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/) [![XDA Developers Badge](https://img.shields.io/badge/🔗_XDA%20Developers-EA7100?logo=xdadevelopers&logoColor=fff&style=for-the-badge)](https://www.xda-developers.com/)
+[![Awesome Lists Badge](https://img.shields.io/badge/🔗_Awesome%20Lists-FC65A8?logo=awesomelists&logoColor=fff&style=for-the-badge)](https://github.com/sindresorhus/awesome)   [![Shields.io Badge](https://img.shields.io/badge/🔗_Shields.io-000?logo=shieldsdotio&logoColor=fff&style=for-the-badge)](https://shields.io/) [![Simple Icons Badge](https://img.shields.io/badge/🔗_Badges%20Pages-111?logo=simpleicons&logoColor=fff&style=for-the-badge)](https://badges.pages.dev) [![Hack The Box Badge](https://img.shields.io/badge/🔗_Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=000&style=for-the-badge)](https://www.hackthebox.com/) [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=fff&style=for-the-badge)](https://tryhackme.com/) [![FreeCodeCamp](https://img.shields.io/badge/🔗_FreeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/) [![XDA Developers Badge](https://img.shields.io/badge/🔗_XDA%20Developers-EA7100?logo=xdadevelopers&logoColor=fff&style=for-the-badge)](https://www.xda-developers.com/)
 
 - Apps
 
-[![tmux Badge](https://img.shields.io/badge/🔗_tmux-1BB91F?logo=tmux&logoColor=fff&style=for-the-badge)](https://github.com/tmux/tmux/wiki) [![htop Badge](https://img.shields.io/badge/🔗_htop-009020?logo=htop&logoColor=fff&style=for-the-badge)](https://htop.dev/)
+[![tmux Badge](https://img.shields.io/badge/🔗_tmux-1BB91F?logo=tmux&logoColor=fff&style=for-the-badge)](https://github.com/tmux/tmux/wiki) 
+[![htop Badge](https://img.shields.io/badge/🔗_htop-009020?logo=htop&logoColor=fff&style=for-the-badge)](https://htop.dev/)
 
 [![Obsidian](https://img.shields.io/badge/🔗_Obsidian-252525?style=for-the-badge&logo=obsidian&logoColor=6830D9)](https://obsidian.md/)
 [![LibreOffice](https://img.shields.io/badge/🔗_LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://www.libreoffice.org/)
@@ -154,7 +173,9 @@ You can reach me on
 
 - Brands
 
-[![ThinkPad Badge](https://img.shields.io/badge/ThinkPad-EE2624?logo=thinkpad&logoColor=fff&style=for-the-badge)](https://en.wikipedia.org/wiki/ThinkPad) [![PlayStation 2](https://img.shields.io/badge/🔗_PlayStation%202-003791?logo=playstation2&logoColor=fff&style=for-the-badge)](https://playstation.fandom.com/wiki/PlayStation_2) [![Framework Badge](https://img.shields.io/badge/🔗_Framework-000?logo=framework&logoColor=fff&style=for-the-badge)](https://frame.work/)
+[![ThinkPad Badge](https://img.shields.io/badge/ThinkPad-EE2624?logo=thinkpad&logoColor=fff&style=for-the-badge)](https://en.wikipedia.org/wiki/ThinkPad) [![Sony PlayStation 2](https://img.shields.io/badge/🔗_PlayStation%202-003791?logo=playstation2&logoColor=fff&style=for-the-badge)](https://playstation.fandom.com/wiki/PlayStation_2) [![Framework Badge](https://img.shields.io/badge/🔗_Framework-000?logo=framework&logoColor=fff&style=for-the-badge)](https://frame.work/)
+
+</details>
 
 <!---
 DeathGabox/DeathGabox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
