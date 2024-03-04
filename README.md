@@ -138,10 +138,10 @@
 </details>
 
 ---
-## Software
+## Software Regard 
 
 <details>
-  <summary><b>Repos,Webpages,Apps and Brands</b></summary>
+  <summary><b>Repos,Webpages and Apps</b></summary>
 
 - Helful Repos to build this page
 
@@ -168,10 +168,6 @@
 [![uBlock Origin Badge](https://img.shields.io/badge/🔗_uBlock%20Origin-800000?logo=ublockorigin&logoColor=fff&style=for-the-badge)](https://ublockorigin.com/)
 [![Pocket Badge](https://img.shields.io/badge/🔗_Pocket-EF3F56?logo=pocket&logoColor=fff&style=for-the-badge)](https://getpocket.com/en)
 [![Thunderbird Badge](https://img.shields.io/badge/🔗_Thunderbird-0A84FF?logo=thunderbird&logoColor=fff&style=for-the-badge)](https://www.thunderbird.net/en-US/)
-
-- Brands
-
-[![ThinkPad Badge](https://img.shields.io/badge/ThinkPad-EE2624?logo=thinkpad&logoColor=fff&style=for-the-badge)](https://en.wikipedia.org/wiki/ThinkPad) [![Sony PlayStation 2](https://img.shields.io/badge/🔗_PlayStation%202-003791?logo=playstation2&logoColor=fff&style=for-the-badge)](https://playstation.fandom.com/wiki/PlayStation_2) [![Framework Badge](https://img.shields.io/badge/🔗_Framework-000?logo=framework&logoColor=fff&style=for-the-badge)](https://frame.work/)
 
 </details>
 
