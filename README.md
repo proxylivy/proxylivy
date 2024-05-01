@@ -1,3 +1,5 @@
+<img align="right" width="250" height="250" src="/DeathGabox_Octocat.png">
+
 [![Github](https://img.shields.io/badge/👓_README_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white)](README.md?plain=1)
 
 ⭐ Remember star repos you like 💌
