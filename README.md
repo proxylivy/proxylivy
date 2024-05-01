@@ -1,17 +1,17 @@
-<img align="right" width="250" height="250" src="/DeathGabox_Octocat.png">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=16&duration=4600&pause=1200&color=15C9F7C8&vCenter=true&width=460&height=35&lines=Hi+There+%F0%9F%91%8B%2C+I+am+Deathgabox+%5E%5E;2+Years+with+Arch%F0%9F%90%A7+as+Daily+Driver;%F0%9F%8C%B1+Trying+to+switch+Systemd+to+S6;Feel+free+to+look+around)](https://git.io/typing-svg)
+
+<img align="right" width="230" height="230" src="/DeathGabox_Octocat.png">
 
 [![Github](https://img.shields.io/badge/👓_README_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white)](README.md?plain=1)
+
 
 ⭐ Remember star repos you like 💌
 
 🔗 -> External Link
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=16&duration=4600&pause=1200&color=15C9F7C8&vCenter=true&width=460&height=35&lines=Hi+There+%F0%9F%91%8B%2C+I+am+Deathgabox+%5E%5E;2+Years+with+Arch%F0%9F%90%A7+as+Daily+Driver;%F0%9F%8C%B1+Trying+to+switch+Systemd+to+S6;Feel+free+to+look+around)](https://git.io/typing-svg)
+Send me a Message ^^
 
-## Reach me on
-
-[![LinkedIn Badge](https://img.shields.io/badge/🔗_Linked[In]-e6e6e6?logo=linkedin&logoColor=0575B0&style=for-the-badge)](https://www.linkedin.com/in/gabo-z-montecinos)
-[![Gmail Badge](https://img.shields.io/badge/🔗_mailto:zunigagabriel3[at]gmail[dot]com-B51D39?logo=gmail&logoColor=FABE0F&labelColor=38A454&style=for-the-badge)](mailto:zunigagabriel3@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/🔗_Linked[In]-e6e6e6?logo=linkedin&logoColor=0575B0&style=for-the-badge)](https://www.linkedin.com/in/gabo-z-montecinos) [![Gmail Badge](https://img.shields.io/badge/🔗_mailto:zunigagabriel3[at]gmail[dot]com-B51D39?logo=gmail&logoColor=FABE0F&labelColor=38A454&style=for-the-badge)](mailto:zunigagabriel3@gmail.com)
 
 ## I love
 
