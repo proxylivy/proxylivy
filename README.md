@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=16&duration=4600&pause=1200&color=15C9F7C8&vCenter=true&width=460&height=35&lines=Hi+There+%F0%9F%91%8B%2C+I+am+Deathgabox+%5E%5E;2+Years+with+Arch%F0%9F%90%A7+as+Daily+Driver;%F0%9F%8C%B1+Trying+to+switch+Systemd+to+S6;Feel+free+to+look+around)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=CDD6F4&background=11111B&random=false&width=450&height=60&lines=Hi+There%2C+I+am+Proxylivy+%5E%5E;Catppucin+Macchiato+best+Dark+Theme+%3C3;Feel+Free+to+Look+Arround)](https://git.io/typing-svg)
 
 <img align="right" width="230" height="230" src="/DeathGabox_Octocat.png">
 
