@@ -9,7 +9,7 @@
 
 🔗 -> External Link
 
-Send me a Message ^^
+Send me a Unicast Package, i will answer ^^
 
 [![Gmail Badge](https://img.shields.io/badge/🔗_zunigagabriel3[at]gmail[dot]com-B51D39?logo=gmail&logoColor=FABE0F&labelColor=38A454&style=for-the-badge)](mailto:zunigagabriel3@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/🔗_Linked[In]-e6e6e6?logo=linkedin&logoColor=0575B0&style=for-the-badge)](https://www.linkedin.com/in/gabo-z-montecinos) 
 
@@ -30,14 +30,24 @@ Send me a Message ^^
 [![Uptime Kuma Badge](https://img.shields.io/badge/🔗_Uptime%20Kuma-5CDD8B?logo=uptimekuma&logoColor=000&style=for-the-badge)](https://kuma.deathgabox.work/status/kuma)
 [![Jellyfin Badge](https://img.shields.io/badge/Jellyfin-00A4DC?logo=jellyfin&logoColor=fff&style=for-the-badge)](https://jellyfin.org/)
 [![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)](https://www.home-assistant.io/)
-[![Syncthing](https://img.shields.io/badge/Syncthing-1EA6D3.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE4LjEuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxMTcuMyAxMTcuMyIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTE3LjMgMTE3LjMiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8Zz4KCTxsaW5lYXJHcmFkaWVudCBpZD0iU1ZHSURfMV8iIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iNTguNjY2IiB5MT0iMTE3LjMzMiIgeDI9IjU4LjY2NiIgeTI9IjAiPgoJCTxzdG9wICBvZmZzZXQ9IjAiIHN0eWxlPSJzdG9wLWNvbG9yOiMwODgyQzgiLz4KCQk8c3RvcCAgb2Zmc2V0PSIxIiBzdHlsZT0ic3RvcC1jb2xvcjojMjZCNkRCIi8+Cgk8L2xpbmVhckdyYWRpZW50PgoJPGNpcmNsZSBmaWxsPSJ1cmwoI1NWR0lEXzFfKSIgY3g9IjU4LjciIGN5PSI1OC43IiByPSI1OC43Ii8+Cgk8Zz4KCQk8Y2lyY2xlIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLXdpZHRoPSI2IiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIGN4PSI1OC43IiBjeT0iNTguNSIgcj0iNDMuNyIvPgoJCTxnPgoJCQk8cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNOTQuNyw0Ny44YzQuNywxLjYsOS44LTAuOSwxMS40LTUuNmMxLjYtNC43LTAuOS05LjgtNS42LTExLjRjLTQuNy0xLjYtOS44LDAuOS0xMS40LDUuNgoJCQkJQzg3LjUsNDEuMSw5MCw0Ni4yLDk0LjcsNDcuOHoiLz4KCQkJPGxpbmUgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjYiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgeDE9Ijk3LjYiIHkxPSIzOS40IiB4Mj0iNjcuNSIgeTI9IjY0LjQiLz4KCQk8L2c+CgkJPGc+CgkJCTxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik03Ny42LDkxYy0wLjQsNC45LDMuMiw5LjMsOC4yLDkuOGM1LDAuNCw5LjMtMy4yLDkuOC04LjJjMC40LTQuOS0zLjItOS4zLTguMi05LjgKCQkJCUM4Mi40LDgyLjQsNzgsODYsNzcuNiw5MXoiLz4KCQkJPGxpbmUgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjYiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgeDE9Ijg2LjUiIHkxPSI5MS44IiB4Mj0iNjcuNSIgeTI9IjY0LjQiLz4KCQk8L2c+CgkJPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTYwLDY5LjNjMi43LDQuMiw4LjMsNS40LDEyLjQsMi43YzQuMi0yLjcsNS40LTguMywyLjctMTIuNGMtMi43LTQuMi04LjMtNS40LTEyLjQtMi43CgkJCUM1OC41LDU5LjUsNTcuMyw2NS4xLDYwLDY5LjN6Ii8+CgkJPGc+CgkJCTxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0yMS4yLDYxLjRjLTQuMy0yLjUtOS44LTEuMS0xMi4zLDMuMWMtMi41LDQuMy0xLjEsOS44LDMuMSwxMi4zYzQuMywyLjUsOS44LDEuMSwxMi4zLTMuMQoJCQkJQzI2LjgsNjkuNSwyNS40LDY0LDIxLjIsNjEuNHoiLz4KCQkJPGxpbmUgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjYiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgeDE9IjE2LjYiIHkxPSI2OS4xIiB4Mj0iNjcuNSIgeTI9IjY0LjQiLz4KCQk8L2c+Cgk8L2c+CjwvZz4KPC9zdmc+Cg==&style=for-the-badge)](https://github.com/syncthing/syncthing)
+[![Syncthing Badge](https://img.shields.io/badge/Syncthing-0891D1?logo=syncthing&logoColor=fff&style=for-the-badge)](https://github.com/syncthing/syncthing)
 [![Dozzle](https://img.shields.io/badge/Dozzle-292828.svg?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDEyOCAxMjgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiByeD0iNiIgZmlsbD0iIzIyMjIyMiIvPgo8cGF0aCBkPSJNODIuMzI0OCA5NC4zODYzSDEyM1YxMDQuMDkzSDY3LjgwMjVWOTUuMzUwNkwxMDYuMTY0IDQ0LjM3MzZINjguMzgwOFYzNC41MzgySDEyMS4wNzJWNDIuOTU5NEw4Mi4zMjQ4IDk0LjM4NjNaIiBmaWxsPSIjRkZERDU3Ii8+CjxwYXRoIGQ9Ik04IDEwNy4xMDdMMTcuNTY1NiAxNEw0My44MzcyIDE2LjcwMTNDNTEuOTMzOSAxNy41MzM4IDU4LjkwOTEgMjAuMDYwNCA2NC43NjI5IDI0LjI4MTJDNzAuNjE2NiAyOC41MDE5IDc0Ljg4NzMgMzQuMDg5MyA3Ny41NzQ5IDQxLjA0MzJDODAuMzA1MiA0OC4wMDE2IDgxLjI1MTQgNTUuNzY3NCA4MC40MTM3IDY0LjM0MDdMNzkuODAyNyA3MC4yODc3Qzc4LjkwMDUgNzkuMDY5OCA3Ni40MDUzIDg2LjU4OTQgNzIuMzE3MyA5Mi44NDY4QzY4LjI3MTkgOTkuMTA4NCA2Mi45MTQgMTAzLjY4NCA1Ni4yNDM2IDEwNi41NzRDNDkuNjE1OCAxMDkuNDY4IDQyLjEyMTMgMTEwLjUyOSAzMy43NjAyIDEwOS43NTVMOCAxMDcuMTA3Wk0yOC44MDA1IDI1LjM2NTVMMjEuMzA0MyA5OC4zMjg4TDM0LjIxNjQgOTkuNjU2NUM0My42NzY3IDEwMC42MjkgNTEuMzI5OSA5OC40NDM1IDU3LjE3NTggOTMuMDk5M0M2My4wNjQ0IDg3Ljc1OTUgNjYuNTY3MSA3OS42NTQyIDY3LjY4NCA2OC43ODMyTDY4LjI0MjQgNjMuMzQ3N0M2OS4zMjg2IDUyLjc3NTIgNjcuNjc4OCA0NC4zMTIzIDYzLjI5MyAzNy45NTkyQzU4Ljk1NDIgMzEuNTY3OCA1Mi4yMjk1IDI3Ljg2MDcgNDMuMTE4OCAyNi44Mzc3TDI4LjgwMDUgMjUuMzY1NVoiIGZpbGw9IiNGRkRENTciLz4KPC9zdmc+Cg==&style=for-the-badge)](https://dozzle.dev/)
 [![Vaultwarden](https://img.shields.io/badge/Vaultwarden-000?logo=vaultwarden&logoColor=fff&style=for-the-badge)](https://github.com/dani-garcia/vaultwarden)
+[![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)](https://www.nginx.com/)
+[![Apache Guacamole Badge](https://img.shields.io/badge/Apache%20Guacamole-578B34?logo=apacheguacamole&logoColor=fff&style=for-the-badge)](https://guacamole.apache.org/)
+
+<a href="https://freshrss.org/"><img src="https://freshrss.org/images/icon.svg" height="32" ></a>
+<a href="https://docmost.com/"><img src="https://raw.githubusercontent.com/docmost/docmost/main/apps/client/public/favicon-32x32.png" height="32" ></a>
+<a href="https://github.com/andrii-kryvoviaz/slink"><img src="https://raw.githubusercontent.com/andrii-kryvoviaz/slink/main/client/static/favicon.png" height="32" ></a>
+<a href="https://github.com/grocy/grocy"><img src="https://raw.githubusercontent.com/grocy/grocy/master/public/img/icon-32.png" height="32" ></a>
+<a href="https://github.com/RSS-Bridge/rss-bridge"><img src="https://raw.githubusercontent.com/RSS-Bridge/rss-bridge/master/docs/images/rssbridgelogo.png" height="32" ></a>
+<a href="https://github.com/navidrome/navidrome/"><img src="https://raw.githubusercontent.com/navidrome/navidrome/master/resources/logo-192x192.png" height="32" ></a>
+<a href="https://github.com/ellite/Wallos"><img src="https://raw.githubusercontent.com/ellite/Wallos/main/images/siteicons/walloswhite.png" height="32" ></a>
+<a href="https://github.com/TomBursch/kitchenowl/tree/main"><img src="https://raw.githubusercontent.com/TomBursch/kitchenowl/main/docs/img/icon.png" height="32" ></a>
 
 <details>
   <summary><b>Docker Waitlist Deploy (WIP)</b></summary>
-  
-[![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)](https://www.nginx.com/)
+
 [![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)](https://nextcloud.com/)
 [![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)](https://pi-hole.net/)
 [![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=for-the-badge)](https://httpd.apache.org/)
