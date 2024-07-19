@@ -20,8 +20,7 @@ Send me a Unicast Package, i will answer ^^
 [![RSS](https://img.shields.io/badge/🔗_RSS-E4761C?style=for-the-badge&logo=rss&logoColor=white)](https://www.rssboard.org/rss-specification)
 [![Cloudflare Services](https://img.shields.io/badge/🔗_Cloudflare_Services-F4801F?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/products/tunnel/)
 [![Markdown](https://img.shields.io/badge/🔗_Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org)
-[![QEMU](https://img.shields.io/badge/🔗_QEMU-F36201?logo=qemu&logoColor=010101&style=for-the-badge)](https://www.qemu.org/) 
-[![Virtualbox](https://img.shields.io/badge/🔗_VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)](https://www.virtualbox.org/)
+[![QEMU](https://img.shields.io/badge/🔗_libvirt%2FQEMU-F36201?logo=qemu&logoColor=010101&style=for-the-badge)](https://www.qemu.org/)
 
 ## Docker Deploy 🐳
 
