@@ -1,26 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=CDD6F4&background=11111B&random=false&width=450&height=60&lines=Hi+There%2C+I+am+Proxylivy+%5E%5E;Catppucin+Macchiato+best+Dark+Theme+%3C3;Feel+Free+to+Look+Arround)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=CDD6F4&background=24273a&random=false&width=450&height=60&lines=Hi+There%2C+I+am+Proxylivy+%5E%5E;Catppucin+Macchiato+best+Dark+Theme+%3C3;Feel+Free+to+Look+Arround)](https://git.io/typing-svg) [![Github](https://img.shields.io/badge/👓_README_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white)](README.md?plain=1) 
 
+[![Trophy](https://github-profile-trophy.vercel.app/?username=DeathGabox&theme=nord&rank=SSS,SS,AAA,AA,A,B,C,SECRET&column=-1&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+## About Me
 <img align="right" width="230" height="230" src="/DeathGabox_Octocat.png">
+G'day Mate, i am a student Network Engineer, i like to play with network infraestructure doing new routes to navigate, i love RSS
 
-[![Github](https://img.shields.io/badge/👓_README_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white)](README.md?plain=1)
-
-
-⭐ Remember star repos you like 💌
-
-🔗 -> External Link
-
-Send me a Unicast Package, i will answer ^^
-
-[![Gmail Badge](https://img.shields.io/badge/🔗_zunigagabriel3[at]gmail[dot]com-B51D39?logo=gmail&logoColor=FABE0F&labelColor=38A454&style=for-the-badge)](mailto:zunigagabriel3@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/🔗_Linked[In]-e6e6e6?logo=linkedin&logoColor=0575B0&style=for-the-badge)](https://www.linkedin.com/in/gabo-z-montecinos) 
+Send me a Unicast Message, i will answer ^^
+| Gmail - zunigagabriel3[at]gmail[dot]com | Linkedin |
+|---|---|
+| [![Gmail Badge](https://img.shields.io/badge/🔗_Click_Me_^^-B51D39?logo=gmail&logoColor=FABE0F&labelColor=38A454&style=for-the-badge)](mailto:zunigagabriel3@gmail.com) | [![LinkedIn Badge](https://img.shields.io/badge/🔗_Linked[In]-e6e6e6?logo=linkedin&logoColor=0575B0&style=for-the-badge)](https://www.linkedin.com/in/gabo-z-montecinos) |
 
 ## I love
+WIP: Go from MD to HTML
 
-[![Linux Badge](https://img.shields.io/badge/🔗_Linux-F5BB16?logo=linux&logoColor=000&style=for-the-badge)](https://www.kernel.org/)
-[![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)](https://www.docker.com/)
-[![RSS](https://img.shields.io/badge/🔗_RSS-E4761C?style=for-the-badge&logo=rss&logoColor=white)](https://www.rssboard.org/rss-specification)
-[![Cloudflare Services](https://img.shields.io/badge/🔗_Cloudflare_Services-F4801F?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/products/tunnel/)
-[![Markdown](https://img.shields.io/badge/🔗_Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org)
-[![QEMU](https://img.shields.io/badge/🔗_libvirt%2FQEMU-F36201?logo=qemu&logoColor=010101&style=for-the-badge)](https://www.qemu.org/)
+| Linux | Docker | RSS | Cloudflare | Markdown | Libvirt/QEMU |
+|-------|--------|-----|------------|----------|--------------|
+| [![Linux Badge](https://img.shields.io/badge/🔗_Linux-F5BB16?logo=linux&logoColor=000&style=for-the-badge)](https://www.kernel.org/) | [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)](https://www.docker.com/) | [![RSS](https://img.shields.io/badge/🔗_RSS-E4761C?style=for-the-badge&logo=rss&logoColor=white)](https://www.rssboard.org/rss-specification) | [![Cloudflare Services](https://img.shields.io/badge/🔗_Cloudflare_Services-F4801F?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/products/tunnel/) | [![Markdown](https://img.shields.io/badge/🔗_Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org) | [![QEMU](https://img.shields.io/badge/🔗_libvirt%2FQEMU-F36201?logo=qemu&logoColor=010101&style=for-the-badge)](https://www.qemu.org/) |
 
 ## Docker Deploy 🐳
 
@@ -170,6 +166,11 @@ Send me a Unicast Package, i will answer ^^
 [![uBlock Origin Badge](https://img.shields.io/badge/🔗_uBlock%20Origin-800000?logo=ublockorigin&logoColor=fff&style=for-the-badge)](https://ublockorigin.com/)
 [![Pocket Badge](https://img.shields.io/badge/🔗_Pocket-EF3F56?logo=pocket&logoColor=fff&style=for-the-badge)](https://getpocket.com/en)
 [![Thunderbird Badge](https://img.shields.io/badge/🔗_Thunderbird-0A84FF?logo=thunderbird&logoColor=fff&style=for-the-badge)](https://www.thunderbird.net/en-US/)
+
+- Inspiration
+
+[![Github Readme sammoroz](https://img.shields.io/badge/🔗_Github_sammoroz_Readme-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/sammorozov/sammorozov)
+
 
 </details>
 
