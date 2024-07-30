@@ -141,10 +141,14 @@ WIP: Go from MD to HTML
 <details>
   <summary><b>Repos,Webpages and Apps</b></summary>
 
-- Helful Repos to build this page
+- Helful Github Repos to build this page
 
-[![Github Repo Readme Typing](https://img.shields.io/badge/🔗_GitHub_Repo_Readme_Typing_-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/denvercoder1/readme-typing-svg) [![Github/Envoy-VC/Awesome_Badges](https://img.shields.io/badge/🔗_GitHub_Repo_Awesome_Badges-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/Envoy-VC/awesome-badges) [![GitHub Repo 1](https://img.shields.io/badge/🔗_GitHub_Repo_Awesome_Self_Hosted-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/awesome-selfhosted/awesome-selfhosted) 
-[![Github Repo 2](https://img.shields.io/badge/🔗_GitHub_Repo_Awesome_Awesomeness-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/bayandin/awesome-awesomeness)
+[![Readme Typing](https://img.shields.io/badge/🔗_Readme_Typing_-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/denvercoder1/readme-typing-svg) [![Envoy-VC/Awesome_Badges](https://img.shields.io/badge/🔗_Awesome_Badges-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/Envoy-VC/awesome-badges) [![Awesome Self-hosted](https://img.shields.io/badge/🔗_Awesome_Self_Hosted-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/awesome-selfhosted/awesome-selfhosted) 
+[![Awesome Awesomeness](https://img.shields.io/badge/🔗_Awesome_Awesomeness-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/bayandin/awesome-awesomeness)
+[![Devicons](https://img.shields.io/badge/🔗_Devicons-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/devicons/devicon)
+[![sammoroz Readme](https://img.shields.io/badge/🔗_sammoroz_Readme-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/sammorozov/sammorozov)
+
+
 
 - Webpages
 
@@ -166,10 +170,6 @@ WIP: Go from MD to HTML
 [![uBlock Origin Badge](https://img.shields.io/badge/🔗_uBlock%20Origin-800000?logo=ublockorigin&logoColor=fff&style=for-the-badge)](https://ublockorigin.com/)
 [![Pocket Badge](https://img.shields.io/badge/🔗_Pocket-EF3F56?logo=pocket&logoColor=fff&style=for-the-badge)](https://getpocket.com/en)
 [![Thunderbird Badge](https://img.shields.io/badge/🔗_Thunderbird-0A84FF?logo=thunderbird&logoColor=fff&style=for-the-badge)](https://www.thunderbird.net/en-US/)
-
-- Inspiration
-
-[![Github Readme sammoroz](https://img.shields.io/badge/🔗_Github_sammoroz_Readme-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/sammorozov/sammorozov)
 
 
 </details>
