@@ -1,57 +1,92 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=CDD6F4&background=24273a&random=false&width=450&height=60&lines=Hi+There%2C+I+am+Proxylivy+%5E%5E;Catppucin+Macchiato+best+Dark+Theme+%3C3;Feel+Free+to+Look+Arround)](https://git.io/typing-svg) [![Github](https://img.shields.io/badge/👓_README_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white)](README.md?plain=1) 
+<!--
+Hey thanks for see the code behind, here you have the template
+URL Template
+<a href="site link" ><img src="image-link" title="Tittle-Link" alt="Tittle-Link" width="55" height="55"/></a>
+
+Badge Template
+[![Badge Name](https://img.shields.io/badge/Badge_Name-B51D39?logo="logo"&logoColor=FABE0F&labelColor=38A454&style=for-the-badge)](external-link)
+
+Have Fun, Happy Hacking
+- Proxylivy
+-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=CDD6F4&background=24273a&random=false&width=450&height=60&lines=Hi+There%2C+I+am+Proxylivy+%5E%5E;Catppucin+Macchiato+best+Dark+Theme+%3C3;Feel+Free+to+Look+Arround)](https://git.io/typing-svg)
+
+[![Github](https://img.shields.io/badge/👓_README_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white)](README.md?plain=1)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=DeathGabox&theme=nord&rank=SSS,SS,AAA,AA,A,B,C,SECRET&column=-1&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-## About Me
+## About Me (Try, Fail, Fix it)
 <img align="right" width="230" height="230" src="/DeathGabox_Octocat.png">
-G'day Mate, i am a student Network Engineer, i like to play with network infraestructure doing new routes to navigate, i love RSS
+G'day Mate, I'm Gabo, a Network Engineer from 🇨🇱, currently studying Connectivity and Network @ DuocUC, i focus on precise configuration and efficient operations on systems and networks infraestucture. I love working with linux, with env like Wayland and Hyprland.
 
-Send me a Unicast Message, i will answer ^^
-| Gmail - zunigagabriel3[at]gmail[dot]com | Linkedin |
+If you share my interest or simply want to connect, feel free to reach out, I'm always open to collaborate, technical discussions, or just chatting and learning about other tech enthusiast, so send me a Unicast Message, i will answer ^^
+| Mail | Linkedin |
 |---|---|
-| [![Gmail Badge](https://img.shields.io/badge/🔗_Click_Me_^^-B51D39?logo=gmail&logoColor=FABE0F&labelColor=38A454&style=for-the-badge)](mailto:zunigagabriel3@gmail.com) | [![LinkedIn Badge](https://img.shields.io/badge/🔗_Linked[In]-e6e6e6?logo=linkedin&logoColor=0575B0&style=for-the-badge)](https://www.linkedin.com/in/gabo-z-montecinos) |
+| [![Gmail Badge](https://img.shields.io/badge/🔗_Go_to_mail-B51D39?logo=gmail&logoColor=FABE0F&labelColor=38A454&style=for-the-badge)](mailto:zunigagabriel3@gmail.com) | [![LinkedIn Badge](https://img.shields.io/badge/🔗_Linked[In]-e6e6e6?logo=linkedin&logoColor=0575B0&style=for-the-badge)](https://www.linkedin.com/in/gabo-z-montecinos) |
 
-## I love
-WIP: Go from MD to HTML
+## Tools Table
+- WIP = Work in Progress | No deploy Yet
+### Virtualization
+| Linux | QEMU | Docker |
+|---|---|---|
+| <a href="https://kernel.org/" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/></a> | <a href="https://www.qemu.org/" ><img src="https://simpleicons.org/icons/qemu.svg" title="QEMU" alt="QEMU" width="55" height="55"/></a> | <a href="https://www.docker.com/" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/></a> |
 
-| Linux | Docker | RSS | Cloudflare | Markdown | Libvirt/QEMU |
-|-------|--------|-----|------------|----------|--------------|
-| [![Linux Badge](https://img.shields.io/badge/🔗_Linux-F5BB16?logo=linux&logoColor=000&style=for-the-badge)](https://www.kernel.org/) | [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)](https://www.docker.com/) | [![RSS](https://img.shields.io/badge/🔗_RSS-E4761C?style=for-the-badge&logo=rss&logoColor=white)](https://www.rssboard.org/rss-specification) | [![Cloudflare Services](https://img.shields.io/badge/🔗_Cloudflare_Services-F4801F?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/products/tunnel/) | [![Markdown](https://img.shields.io/badge/🔗_Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org) | [![QEMU](https://img.shields.io/badge/🔗_libvirt%2FQEMU-F36201?logo=qemu&logoColor=010101&style=for-the-badge)](https://www.qemu.org/) |
+### Languages
+| Markdown | YAML |
+|---|---|
+| <a href="https://www.markdownguide.org" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="55" height="55"/></a> | <a href="https://yaml.org/" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" title="YAML" alt="YAML" width="55" height="55"/></a> |
 
-## Docker Deploy 🐳
 
-[![Let's Encrypt Badge](https://img.shields.io/badge/Let's%20Encrypt-003A70?logo=letsencrypt&logoColor=fff&style=for-the-badge)](https://letsencrypt.org/)
-[![Firefly III Badge](https://img.shields.io/badge/Firefly%20III-CD5029?logo=fireflyiii&logoColor=fff&style=for-the-badge)](https://demo.firefly-iii.org/login)
-[![Uptime Kuma Badge](https://img.shields.io/badge/🔗_Uptime%20Kuma-5CDD8B?logo=uptimekuma&logoColor=000&style=for-the-badge)](https://kuma.deathgabox.work/status/kuma)
+###  Docker Deploy 🐳
+#### Web Server
+| NGINX | Apache | Cloudflare | Traefik(WIP) | Let's Encrypt(WIP) |
+|---|---|---|---|---|
+| <a href="https://nginx.org/" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="55" height="55"/></a> | <a href="https://httpd.apache.org/" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="55" height="55"/></a> | <a href="https://www.cloudflare.com/products/tunnel/" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" title="Cloudflare Tunnel" alt="Cloudflare Tunnel" height="55"/></a> | <a href="https://github.com/traefik/traefik" ><img src="https://raw.githubusercontent.com/traefik/traefik/master/docs/content/assets/img/traefik.logo-dark.png" title="Traefik" alt="Traefik" height="55"/></a> | <a href="https://letsencrypt.org/"><img src="https://simpleicons.org/icons/letsencrypt.svg" title="Let's Encrypt" alt="Let's Encrypt" height="55"/></a> |
+
+
+### RSS Related
+| RSS | Freshrss | rss-bridge | morss | full-text-rss 3.8 Fork |
+|---|---|---|---|---|
+| <a href="https://www.rssboard.org/rss-specification" ><img src="https://simpleicons.org/icons/rss.svg" title="RSS" alt="RSS" width="43" height="43"/></a> | <a href="https://freshrss.org/" ><img src="https://freshrss.org/images/icon.svg" title="FreshRSS" alt="FreshRSS" width="55" height="55"/></a> | <a href="https://github.com/RSS-Bridge/rss-bridge" ><img src="https://raw.githubusercontent.com/RSS-Bridge/rss-bridge/master/docs/images/rssbridgelogo.png" title="rss-bridge" alt="rss-bridge" height="55"/></a> | <a href="https://github.com/pictuga/morss" ><img src="https://morss.it/logo.svg" title="morss" alt="morss" width="55" height="55"/></a> | <a href="https://github.com/heussd/fivefilters-full-text-rss-docker" ><img src="https://www.fivefilters.org/wp-content/uploads/2020/04/logo-regular.svg" title="full-text-rss" alt="full-text-rss" height="55"/></a> |
+
+### Productivity
+| Benotes | Docmost | Flame | Grocy | Slink | Syncthing |
+| --- | --- | --- | --- | --- | --- |
+| <a href="https://github.com/fr0tt/benotes"><img src="https://styles.redditmedia.com/t5_7s4cwx/styles/communityIcon_btnd115h9mca1.png" title="Benotes" alt="Benotes" width="55" height="55" /></a> | <a href="https://docmost.com/"><img src="https://raw.githubusercontent.com/docmost/docmost/main/apps/client/public/favicon-32x32.png" title="Docmost" alt="Docmost" width="55" height="55" /></a> | <a href="https://github.com/pawelmalak/flame"><img src="https://raw.githubusercontent.com/pawelmalak/flame/master/client/public/icons/apple-touch-icon-180x180.png" title="Flame" alt="Flame" width="55" height="55" /></a> | <a href="https://github.com/grocy/grocy"><img src="https://raw.githubusercontent.com/grocy/grocy/master/public/img/icon.svg" title="Grocy" alt="Grocy" width="55" height="55" /></a> | <a href="https://github.com/andrii-kryvoviaz/slink"><img src="https://raw.githubusercontent.com/andrii-kryvoviaz/slink/main/client/static/favicon.png" title="Slink" alt="Slink" width="55" height="55" /></a> | <a href="https://syncthing.net/"><img src="https://simpleicons.org/icons/syncthing.svg" title="Syncthing" alt="Syncthing" width="55" height="55" /></a> |
+
+### Monitoring
+| Dozzle | Uptime Kuma (Demo) |
+| --- | --- |
+| <a href="https://dozzle.dev/"><img src="https://raw.githubusercontent.com/amir20/dozzle/master/public/apple-touch-icon.png" title="Dozzle" alt="Dozzle" width="55" height="55" /></a> | <a href="https://kuma.deathgabox.work/status/kuma"><img src="https://raw.githubusercontent.com/louislam/uptime-kuma/master/public/icon.svg" title="Uptime Kuma" alt="Uptime Kuma" width="55" height="55" /></a> |
+
+### Media
 [![Jellyfin Badge](https://img.shields.io/badge/Jellyfin-00A4DC?logo=jellyfin&logoColor=fff&style=for-the-badge)](https://jellyfin.org/)
-[![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)](https://www.home-assistant.io/)
-[![Syncthing Badge](https://img.shields.io/badge/Syncthing-0891D1?logo=syncthing&logoColor=fff&style=for-the-badge)](https://github.com/syncthing/syncthing)
-[![Dozzle](https://img.shields.io/badge/Dozzle-292828.svg?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDEyOCAxMjgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiByeD0iNiIgZmlsbD0iIzIyMjIyMiIvPgo8cGF0aCBkPSJNODIuMzI0OCA5NC4zODYzSDEyM1YxMDQuMDkzSDY3LjgwMjVWOTUuMzUwNkwxMDYuMTY0IDQ0LjM3MzZINjguMzgwOFYzNC41MzgySDEyMS4wNzJWNDIuOTU5NEw4Mi4zMjQ4IDk0LjM4NjNaIiBmaWxsPSIjRkZERDU3Ii8+CjxwYXRoIGQ9Ik04IDEwNy4xMDdMMTcuNTY1NiAxNEw0My44MzcyIDE2LjcwMTNDNTEuOTMzOSAxNy41MzM4IDU4LjkwOTEgMjAuMDYwNCA2NC43NjI5IDI0LjI4MTJDNzAuNjE2NiAyOC41MDE5IDc0Ljg4NzMgMzQuMDg5MyA3Ny41NzQ5IDQxLjA0MzJDODAuMzA1MiA0OC4wMDE2IDgxLjI1MTQgNTUuNzY3NCA4MC40MTM3IDY0LjM0MDdMNzkuODAyNyA3MC4yODc3Qzc4LjkwMDUgNzkuMDY5OCA3Ni40MDUzIDg2LjU4OTQgNzIuMzE3MyA5Mi44NDY4QzY4LjI3MTkgOTkuMTA4NCA2Mi45MTQgMTAzLjY4NCA1Ni4yNDM2IDEwNi41NzRDNDkuNjE1OCAxMDkuNDY4IDQyLjEyMTMgMTEwLjUyOSAzMy43NjAyIDEwOS43NTVMOCAxMDcuMTA3Wk0yOC44MDA1IDI1LjM2NTVMMjEuMzA0MyA5OC4zMjg4TDM0LjIxNjQgOTkuNjU2NUM0My42NzY3IDEwMC42MjkgNTEuMzI5OSA5OC40NDM1IDU3LjE3NTggOTMuMDk5M0M2My4wNjQ0IDg3Ljc1OTUgNjYuNTY3MSA3OS42NTQyIDY3LjY4NCA2OC43ODMyTDY4LjI0MjQgNjMuMzQ3N0M2OS4zMjg2IDUyLjc3NTIgNjcuNjc4OCA0NC4zMTIzIDYzLjI5MyAzNy45NTkyQzU4Ljk1NDIgMzEuNTY3OCA1Mi4yMjk1IDI3Ljg2MDcgNDMuMTE4OCAyNi44Mzc3TDI4LjgwMDUgMjUuMzY1NVoiIGZpbGw9IiNGRkRENTciLz4KPC9zdmc+Cg==&style=for-the-badge)](https://dozzle.dev/)
-[![Vaultwarden](https://img.shields.io/badge/Vaultwarden-000?logo=vaultwarden&logoColor=fff&style=for-the-badge)](https://github.com/dani-garcia/vaultwarden)
-[![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)](https://www.nginx.com/)
-[![Apache Guacamole Badge](https://img.shields.io/badge/Apache%20Guacamole-578B34?logo=apacheguacamole&logoColor=fff&style=for-the-badge)](https://guacamole.apache.org/)
-
-<a href="https://freshrss.org/"><img src="https://freshrss.org/images/icon.svg" height="32" ></a>
-<a href="https://docmost.com/"><img src="https://raw.githubusercontent.com/docmost/docmost/main/apps/client/public/favicon-32x32.png" height="32" ></a>
-<a href="https://github.com/andrii-kryvoviaz/slink"><img src="https://raw.githubusercontent.com/andrii-kryvoviaz/slink/main/client/static/favicon.png" height="32" ></a>
-<a href="https://github.com/grocy/grocy"><img src="https://raw.githubusercontent.com/grocy/grocy/master/public/img/icon-32.png" height="32" ></a>
-<a href="https://github.com/RSS-Bridge/rss-bridge"><img src="https://raw.githubusercontent.com/RSS-Bridge/rss-bridge/master/docs/images/rssbridgelogo.png" height="32" ></a>
 <a href="https://github.com/navidrome/navidrome/"><img src="https://raw.githubusercontent.com/navidrome/navidrome/master/resources/logo-192x192.png" height="32" ></a>
-<a href="https://github.com/ellite/Wallos"><img src="https://raw.githubusercontent.com/ellite/Wallos/main/images/siteicons/walloswhite.png" height="32" ></a>
+
+
+### Wise Management
 <a href="https://github.com/TomBursch/kitchenowl/tree/main"><img src="https://raw.githubusercontent.com/TomBursch/kitchenowl/main/docs/img/icon.png" height="32" ></a>
+<a href="https://github.com/ellite/Wallos"><img src="https://raw.githubusercontent.com/ellite/Wallos/main/images/siteicons/walloswhite.png" title="Wallos" alt="Wallos" height="55" /></a>
+
+
+### Security
+[![Vaultwarden](https://img.shields.io/badge/Vaultwarden-000?logo=vaultwarden&logoColor=fff&style=for-the-badge)](https://github.com/dani-garcia/vaultwarden)
+(WIP) [![Authelia](https://img.shields.io/badge/Authelia-113155?logo=authelia&logoColor=fff&style=for-the-badge)](https://www.authelia.com/)
+
 
 <details>
   <summary><b>Docker Waitlist Deploy (WIP)</b></summary>
 
+[![Firefly III Badge](https://img.shields.io/badge/Firefly%20III-CD5029?logo=fireflyiii&logoColor=fff&style=for-the-badge)](https://demo.firefly-iii.org/login)
+[![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)](https://www.home-assistant.io/)
 [![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)](https://nextcloud.com/)
 [![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)](https://pi-hole.net/)
-[![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=for-the-badge)](https://httpd.apache.org/)
 [![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.org/)
 [![IPFS](https://img.shields.io/badge/IPFS-65C2CB?logo=ipfs&logoColor=fff&style=for-the-badge)](https://www.ipfs.tech/)
 [![Mumble](https://img.shields.io/badge/Mumble-000?logo=mumble&logoColor=fff&style=for-the-badge)](https://www.mumble.info/)
 [![WireGuard](https://img.shields.io/badge/WireGuard-88171A?logo=wireguard&logoColor=fff&style=for-the-badge)](https://www.wireguard.com/)
 [![BookStack](https://img.shields.io/badge/BookStack-0288D1?logo=bookstack&logoColor=fff&style=for-the-badge)](https://www.bookstackapp.com/)
-[![Authelia](https://img.shields.io/badge/Authelia-113155?logo=authelia&logoColor=fff&style=for-the-badge)](https://www.authelia.com/)
+
 [![ESPHome](https://img.shields.io/badge/ESPHome-000?logo=esphome&logoColor=fff&style=for-the-badge)](https://esphome.io/guides/getting_started_command_line.html)
 [![TiddlyWiki](https://img.shields.io/badge/TiddlyWiki-111?logo=tiddlywiki&logoColor=fff&style=for-the-badge)](https://tiddlywiki.com/)
 [![Immich](https://img.shields.io/badge/Immich-4250AF?logo=immich&logoColor=fff&style=for-the-badge)](https://immich.app/)
@@ -62,9 +97,9 @@ WIP: Go from MD to HTML
 </details>
 
 <details>
-  <summary><b>Things i want to Learn</b></summary>
+  <summary><b>Learning in Progress</b></summary>
 
-- Programming Languague
+### Language
 
 [![C](https://img.shields.io/badge/🔗_C_Standard-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/www/standards)
 [![Rust](https://img.shields.io/badge/🔗_Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
@@ -73,7 +108,7 @@ WIP: Go from MD to HTML
 [![PowerShell Badge](https://img.shields.io/badge/🔗_PowerShell-5391FE?logo=powershell&logoColor=fff&style=for-the-badge)](https://github.com/PowerShell/PowerShell)
 [![Python Badge](https://img.shields.io/badge/🔗_Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
 
-- Apps
+### Apps
 
 [![Vim](https://img.shields.io/badge/🔗_VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
 [![Emacs](https://img.shields.io/badge/🔗_Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)](https://www.gnu.org/software/emacs/) [![Org Badge](https://img.shields.io/badge/🔗_Org-7A9?logo=org&logoColor=fff&style=for-the-badge)](https://orgmode.org/)
@@ -83,12 +118,15 @@ WIP: Go from MD to HTML
 [![Magisk Badge](https://img.shields.io/badge/🔗_Magisk-00AF9C?logo=magisk&logoColor=fff&style=for-the-badge)](https://github.com/topjohnwu/Magisk)
 [![MariaDB Badge](https://img.shields.io/badge/🔗_MariaDB-003545?logo=mariadb&logoColor=fff&style=for-the-badge)](https://mariadb.org/)
 
-- Tech/OS/Network
+
+### Network Tech
 
 [![Proxmox Badge](https://img.shields.io/badge/🔗_Proxmox-E57000?logo=proxmox&logoColor=fff&style=for-the-badge)](https://www.proxmox.com/en/)
 [![Microsoft Azure Badge](https://img.shields.io/badge/🔗_Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)](https://azure.microsoft.com/en-us)
 [![Vagrant Badge](https://img.shields.io/badge/🔗_Vagrant-1868F2?logo=vagrant&logoColor=fff&style=for-the-badge)](https://www.vagrantup.com/)
 [![Kubernetes Badge](https://img.shields.io/badge/🔗_K8s-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)](https://kubernetes.io/) [![K3s Badge](https://img.shields.io/badge/🔗_K3s-FFC61C?logo=k3s&logoColor=000&style=for-the-badge)](https://k3s.io/)
+
+### OS
 
 [![OpenWrt Badge](https://img.shields.io/badge/🔗_OpenWrt-00B5E2?logo=openwrt&logoColor=fff&style=for-the-badge)](https://openwrt.org/)
 [![pfSense Badge](https://img.shields.io/badge/🔗_pfSense-212121?logo=pfsense&logoColor=fff&style=for-the-badge)](https://www.pfsense.org)
@@ -98,6 +136,8 @@ WIP: Go from MD to HTML
 [![Gentoo Badge](https://img.shields.io/badge/🔗_Gentoo-54487A?logo=gentoo&logoColor=fff&style=for-the-badge)](https://www.gentoo.org/)
 [![NixOS Badge](https://img.shields.io/badge/🔗_NixOS-5277C3?logo=nixos&logoColor=fff&style=for-the-badge)](https://nixos.org/)
 [![Alpine Linux Badge](https://img.shields.io/badge/🔗_Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff&style=for-the-badge)](https://www.alpinelinux.org/)
+
+### Tech Brands
 
 [![Cisco Badge](https://img.shields.io/badge/🔗_Cisco_Network-1BA0D7?logo=cisco&logoColor=fff&style=for-the-badge)](https://www.cisco.com/)
 [![Huawei Badge](https://img.shields.io/badge/🔗_Huawei_Network-F00?logo=huawei&logoColor=fff&style=for-the-badge)](https://e.huawei.com/en/)
