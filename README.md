@@ -13,7 +13,7 @@ Have Fun, Happy Hacking
 
 [![Github](https://img.shields.io/badge/👓_README_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white)](README.md?plain=1)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=DeathGabox&theme=nord&rank=SSS,SS,AAA,AA,A,B,C,SECRET&column=-1&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=proxylivy&theme=nord&rank=SSS,SS,AAA,AA,A,B,C,SECRET&column=-1&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About Me (Try, Fail, Fix it)
 <img align="right" width="230" height="230" src="/DeathGabox_Octocat.png">
