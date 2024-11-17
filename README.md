@@ -17,12 +17,14 @@ Have Fun, Happy Hacking
 
 ## About Me (Try, Fail, Fix it)
 <img align="right" width="230" height="230" src="/DeathGabox_Octocat.png">
-G'day Mate, I'm Gabo, a Network Engineer from 🇨🇱, currently studying Connectivity and Network @ DuocUC, i focus on precise configuration and efficient operations on systems and networks infraestucture. I love working with linux, with env like Wayland and Hyprland.
 
-If you share my interest or simply want to connect, feel free to reach out, I'm always open to collaborate, technical discussions, or just chatting and learning about other tech enthusiast, so send me a Unicast Message, i will answer ^^
-| Mail | Linkedin |
-| :---: | :---: |
-| [![Gmail Badge](https://img.shields.io/badge/🔗_Go_to_mail-B51D39?logo=gmail&logoColor=FABE0F&labelColor=38A454&style=for-the-badge)](mailto:zunigagabriel3@gmail.com) | [![LinkedIn Badge](https://img.shields.io/badge/🔗_Linked[In]-e6e6e6?logo=linkedin&logoColor=0575B0&style=for-the-badge)](https://www.linkedin.com/in/gabo-z-montecinos) |
+G'day Mate! I'm Gabo, a Network Engineer Student @ DuocUC from 🇨🇱. I focus on precise configuration and efficient operations on systems and network infrastructure. I love working with GNU/Linux environment, like [Wayland](https://wayland.freedesktop.org/) via [Hyprland](https://hyprland.org/)
+
+If you share my interests or simply want to connect, feel free to reach out, I'm always open to collaboration, technical discussions, or just chatting and learning with other tech enthusiasts, so send me a Unicast Message, i will ACK ^^
+
+| Mail | Linkedin | Littlelink |
+| :---: | :---: | :---: |
+| [![Gmail Badge](https://img.shields.io/badge/🔗_Mail_Me-B51D39?logo=gmail&logoColor=FABE0F&labelColor=38A454&style=for-the-badge)](mailto:zunigagabriel3@gmail.com) | [![LinkedIn Badge](https://img.shields.io/badge/🔗_Linked[In]-e6e6e6?logo=linkedin&logoColor=0575B0&style=for-the-badge)](https://www.linkedin.com/in/gabo-z-montecinos) | [![Littlelink](https://img.shields.io/badge/Littlelink-blue?logo=test&style=for-the-badge)](https://littlelink.proxylivy.work/) |
 
 ## Tools
 - **LIP = Learn in Progress** | No deploy Yet
