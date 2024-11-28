@@ -86,7 +86,7 @@ If you share my interests or simply want to connect, feel free to reach out, I'm
 ### Social Federation 🐳
 | Matrix (LIP) | IPFS (LIP) | Mumble (LIP) |
 | :---: | :---: | :---: |
-| <a href="https://matrix.org/"><img src="https://matrix.org/images/matrix-logo-white.svg" title="Matrix" alt="Matrix" height="55" /></a> | <a href="https://www.ipfs.tech/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" title="IPFS" alt="IPFS" height="55" /></a> | <a href="https://www.mumble.info/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Icons_mumble.svg" title="Mumble" alt="Mumble" height="55" /></a> |
+| <a href="https://matrix.org/"><img src="https://raw.githubusercontent.com/matrix-org/matrix.org/refs/heads/gatsby/content/matrix%20logo.svg" title="Matrix" alt="Matrix" height="55" /></a> | <a href="https://www.ipfs.tech/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" title="IPFS" alt="IPFS" height="55" /></a> | <a href="https://www.mumble.info/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Icons_mumble.svg" title="Mumble" alt="Mumble" height="55" /></a> |
 
 ### Automation and IOT
 | Ansible (LIP) | ESPHome (LIP) | Zigbee (LIP) |
