@@ -13,12 +13,14 @@ Have Fun, Happy Hacking
 
 [![Github](https://img.shields.io/badge/👓_README_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white)](README.md?plain=1)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=proxylivy&theme=nord&rank=SSS,SS,AAA,AA,A,B,C,SECRET&column=-1&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!--
+[![Trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=proxylivy&theme=nord&rank=SSS,SS,AAA,AA,A,B,C,SECRET&column=-1&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 ## About Me (Try, Fail, Fix it)
 <img align="right" width="230" height="230" src="/DeathGabox_Octocat.png">
 
-G'day Mate! I'm Gabo, a Network Engineer Student @ DuocUC from 🇨🇱. I focus on precise configuration and efficient operations on systems and network infrastructure. I love working with GNU/Linux environment, like [Wayland](https://wayland.freedesktop.org/) via [Hyprland](https://hyprland.org/)
+G'day Mate! I'm Gabo, a Network Engineer from 🇨🇱. I love Linux and Open Source <3
 
 If you share my interests or simply want to connect, feel free to reach out, I'm always open to collaboration, technical discussions, or just chatting and learning with other tech enthusiasts, so send me a Unicast Message, i will ACK ^^
 
